@@ -1,0 +1,1501 @@
+﻿ID;Nome;Data_Entrada;Status;Promovido;Setor
+5000;Colaborador_5000;2025-03-22;Ativo;Não;Triagem
+5001;Colaborador_5001;2025-05-04;Desligado;Sim;Expedição
+5002;Colaborador_5002;2025-07-19;Desligado;Não;Triagem
+5003;Colaborador_5003;2025-12-07;Ativo;Não;Reverso (DV)
+5004;Colaborador_5004;2025-02-04;Desligado;Não;Expedição
+5005;Colaborador_5005;2026-03-02;Desligado;Não;Triagem
+5006;Colaborador_5006;2025-05-14;Desligado;Não;Expedição
+5007;Colaborador_5007;2026-03-15;Desligado;Não;Reverso (DV)
+5008;Colaborador_5008;2026-01-22;Ativo;Sim;Recebimento
+5009;Colaborador_5009;2026-01-20;Ativo;Sim;Recebimento
+5010;Colaborador_5010;2025-09-24;Desligado;Não;Triagem
+5011;Colaborador_5011;2025-04-12;Ativo;Sim;Reverso (DV)
+5012;Colaborador_5012;2025-03-27;Ativo;Não;Reverso (DV)
+5013;Colaborador_5013;2025-12-21;Ativo;Não;Triagem
+5014;Colaborador_5014;2025-01-11;Ativo;Não;Reverso (DV)
+5015;Colaborador_5015;2025-12-14;Ativo;Não;Triagem
+5016;Colaborador_5016;2025-06-03;Ativo;Não;Reverso (DV)
+5017;Colaborador_5017;2025-10-14;Ativo;Não;Recebimento
+5018;Colaborador_5018;2025-10-08;Ativo;Não;Recebimento
+5019;Colaborador_5019;2025-07-04;Ativo;Não;Recebimento
+5020;Colaborador_5020;2025-06-03;Ativo;Não;Reverso (DV)
+5021;Colaborador_5021;2025-08-23;Ativo;Não;Recebimento
+5022;Colaborador_5022;2025-04-27;Ativo;Sim;Expedição
+5023;Colaborador_5023;2025-05-18;Ativo;Não;Triagem
+5024;Colaborador_5024;2025-10-03;Desligado;Não;Triagem
+5025;Colaborador_5025;2025-04-13;Ativo;Sim;Reverso (DV)
+5026;Colaborador_5026;2025-09-10;Ativo;Não;Reverso (DV)
+5027;Colaborador_5027;2025-08-24;Desligado;Não;Recebimento
+5028;Colaborador_5028;2025-09-20;Ativo;Não;Expedição
+5029;Colaborador_5029;2025-12-08;Ativo;Não;Expedição
+5030;Colaborador_5030;2025-04-06;Ativo;Sim;Triagem
+5031;Colaborador_5031;2026-01-22;Desligado;Não;Reverso (DV)
+5032;Colaborador_5032;2026-02-07;Desligado;Não;Expedição
+5033;Colaborador_5033;2025-06-18;Ativo;Não;Expedição
+5034;Colaborador_5034;2026-03-01;Ativo;Não;Recebimento
+5035;Colaborador_5035;2025-12-24;Ativo;Não;Reverso (DV)
+5036;Colaborador_5036;2025-12-24;Desligado;Não;Expedição
+5037;Colaborador_5037;2025-12-14;Ativo;Não;Expedição
+5038;Colaborador_5038;2025-12-24;Ativo;Não;Recebimento
+5039;Colaborador_5039;2026-01-30;Ativo;Não;Reverso (DV)
+5040;Colaborador_5040;2025-06-01;Ativo;Não;Recebimento
+5041;Colaborador_5041;2025-09-15;Desligado;Sim;Expedição
+5042;Colaborador_5042;2026-03-24;Ativo;Sim;Triagem
+5043;Colaborador_5043;2025-10-10;Ativo;Não;Reverso (DV)
+5044;Colaborador_5044;2025-06-18;Ativo;Não;Recebimento
+5045;Colaborador_5045;2025-09-12;Desligado;Não;Expedição
+5046;Colaborador_5046;2026-02-23;Ativo;Não;Triagem
+5047;Colaborador_5047;2025-01-12;Ativo;Não;Reverso (DV)
+5048;Colaborador_5048;2025-01-03;Ativo;Não;Recebimento
+5049;Colaborador_5049;2026-03-20;Ativo;Sim;Reverso (DV)
+5050;Colaborador_5050;2026-03-12;Desligado;Não;Triagem
+5051;Colaborador_5051;2025-10-10;Desligado;Não;Expedição
+5052;Colaborador_5052;2026-02-05;Ativo;Não;Triagem
+5053;Colaborador_5053;2025-09-28;Ativo;Não;Reverso (DV)
+5054;Colaborador_5054;2025-01-15;Desligado;Não;Expedição
+5055;Colaborador_5055;2025-11-27;Ativo;Sim;Triagem
+5056;Colaborador_5056;2025-01-14;Ativo;Não;Reverso (DV)
+5057;Colaborador_5057;2025-08-02;Desligado;Não;Triagem
+5058;Colaborador_5058;2025-10-06;Ativo;Não;Triagem
+5059;Colaborador_5059;2026-02-16;Ativo;Não;Triagem
+5060;Colaborador_5060;2026-03-04;Ativo;Não;Recebimento
+5061;Colaborador_5061;2025-01-01;Ativo;Não;Reverso (DV)
+5062;Colaborador_5062;2026-02-15;Ativo;Não;Expedição
+5063;Colaborador_5063;2025-11-02;Ativo;Não;Triagem
+5064;Colaborador_5064;2026-03-07;Ativo;Não;Recebimento
+5065;Colaborador_5065;2026-03-24;Ativo;Não;Recebimento
+5066;Colaborador_5066;2026-02-13;Ativo;Não;Triagem
+5067;Colaborador_5067;2025-10-01;Ativo;Não;Expedição
+5068;Colaborador_5068;2025-11-29;Ativo;Não;Recebimento
+5069;Colaborador_5069;2025-08-11;Ativo;Não;Expedição
+5070;Colaborador_5070;2025-03-09;Ativo;Sim;Reverso (DV)
+5071;Colaborador_5071;2025-08-25;Ativo;Não;Triagem
+5072;Colaborador_5072;2025-08-25;Ativo;Não;Recebimento
+5073;Colaborador_5073;2025-01-16;Ativo;Não;Triagem
+5074;Colaborador_5074;2025-06-04;Desligado;Não;Reverso (DV)
+5075;Colaborador_5075;2025-08-19;Ativo;Não;Reverso (DV)
+5076;Colaborador_5076;2025-06-28;Desligado;Não;Expedição
+5077;Colaborador_5077;2025-10-14;Ativo;Não;Expedição
+5078;Colaborador_5078;2025-08-18;Ativo;Sim;Reverso (DV)
+5079;Colaborador_5079;2025-07-24;Ativo;Não;Triagem
+5080;Colaborador_5080;2026-03-24;Ativo;Não;Expedição
+5081;Colaborador_5081;2026-02-04;Desligado;Não;Reverso (DV)
+5082;Colaborador_5082;2026-03-22;Ativo;Não;Recebimento
+5083;Colaborador_5083;2026-02-17;Ativo;Não;Recebimento
+5084;Colaborador_5084;2025-06-11;Ativo;Não;Expedição
+5085;Colaborador_5085;2025-07-13;Ativo;Não;Expedição
+5086;Colaborador_5086;2025-10-30;Ativo;Não;Triagem
+5087;Colaborador_5087;2025-03-08;Desligado;Não;Expedição
+5088;Colaborador_5088;2026-02-27;Ativo;Sim;Reverso (DV)
+5089;Colaborador_5089;2025-03-21;Ativo;Não;Expedição
+5090;Colaborador_5090;2025-02-20;Ativo;Sim;Triagem
+5091;Colaborador_5091;2025-09-17;Ativo;Sim;Reverso (DV)
+5092;Colaborador_5092;2025-04-23;Ativo;Não;Triagem
+5093;Colaborador_5093;2025-02-26;Ativo;Não;Triagem
+5094;Colaborador_5094;2026-03-24;Ativo;Não;Expedição
+5095;Colaborador_5095;2025-05-14;Ativo;Sim;Reverso (DV)
+5096;Colaborador_5096;2025-04-11;Ativo;Sim;Recebimento
+5097;Colaborador_5097;2025-11-10;Ativo;Não;Recebimento
+5098;Colaborador_5098;2025-02-03;Ativo;Sim;Reverso (DV)
+5099;Colaborador_5099;2025-07-16;Desligado;Não;Expedição
+5100;Colaborador_5100;2025-06-26;Ativo;Não;Recebimento
+5101;Colaborador_5101;2025-03-21;Desligado;Não;Triagem
+5102;Colaborador_5102;2025-06-02;Ativo;Não;Expedição
+5103;Colaborador_5103;2025-10-19;Ativo;Não;Reverso (DV)
+5104;Colaborador_5104;2025-05-27;Ativo;Não;Reverso (DV)
+5105;Colaborador_5105;2025-04-28;Ativo;Sim;Expedição
+5106;Colaborador_5106;2025-06-19;Ativo;Não;Reverso (DV)
+5107;Colaborador_5107;2025-06-02;Ativo;Não;Reverso (DV)
+5108;Colaborador_5108;2025-08-12;Ativo;Não;Reverso (DV)
+5109;Colaborador_5109;2025-09-15;Desligado;Não;Expedição
+5110;Colaborador_5110;2025-10-24;Ativo;Sim;Triagem
+5111;Colaborador_5111;2025-06-07;Ativo;Não;Expedição
+5112;Colaborador_5112;2025-11-27;Ativo;Não;Reverso (DV)
+5113;Colaborador_5113;2025-06-05;Ativo;Não;Triagem
+5114;Colaborador_5114;2026-01-23;Ativo;Não;Expedição
+5115;Colaborador_5115;2025-12-12;Ativo;Não;Expedição
+5116;Colaborador_5116;2025-09-18;Ativo;Sim;Recebimento
+5117;Colaborador_5117;2025-10-24;Ativo;Sim;Expedição
+5118;Colaborador_5118;2026-01-03;Ativo;Não;Expedição
+5119;Colaborador_5119;2026-03-04;Ativo;Não;Reverso (DV)
+5120;Colaborador_5120;2025-08-07;Ativo;Não;Reverso (DV)
+5121;Colaborador_5121;2025-03-28;Ativo;Não;Expedição
+5122;Colaborador_5122;2025-04-27;Ativo;Não;Triagem
+5123;Colaborador_5123;2025-07-17;Desligado;Não;Expedição
+5124;Colaborador_5124;2025-02-13;Ativo;Não;Triagem
+5125;Colaborador_5125;2026-02-28;Ativo;Sim;Expedição
+5126;Colaborador_5126;2025-10-11;Ativo;Não;Triagem
+5127;Colaborador_5127;2026-01-03;Desligado;Não;Reverso (DV)
+5128;Colaborador_5128;2025-01-05;Ativo;Sim;Expedição
+5129;Colaborador_5129;2025-03-06;Ativo;Não;Reverso (DV)
+5130;Colaborador_5130;2025-09-22;Desligado;Sim;Expedição
+5131;Colaborador_5131;2025-12-20;Desligado;Não;Expedição
+5132;Colaborador_5132;2025-06-25;Desligado;Sim;Recebimento
+5133;Colaborador_5133;2025-10-02;Ativo;Não;Triagem
+5134;Colaborador_5134;2025-03-20;Ativo;Não;Triagem
+5135;Colaborador_5135;2026-01-14;Ativo;Não;Triagem
+5136;Colaborador_5136;2025-09-30;Ativo;Não;Recebimento
+5137;Colaborador_5137;2025-08-30;Ativo;Não;Recebimento
+5138;Colaborador_5138;2025-02-06;Ativo;Não;Triagem
+5139;Colaborador_5139;2025-10-11;Desligado;Não;Triagem
+5140;Colaborador_5140;2025-01-30;Ativo;Não;Expedição
+5141;Colaborador_5141;2025-02-03;Ativo;Não;Recebimento
+5142;Colaborador_5142;2025-12-25;Ativo;Não;Expedição
+5143;Colaborador_5143;2025-05-26;Desligado;Não;Expedição
+5144;Colaborador_5144;2025-08-31;Ativo;Sim;Triagem
+5145;Colaborador_5145;2025-05-08;Desligado;Não;Recebimento
+5146;Colaborador_5146;2025-02-15;Ativo;Não;Triagem
+5147;Colaborador_5147;2025-11-02;Ativo;Sim;Expedição
+5148;Colaborador_5148;2026-02-26;Ativo;Não;Reverso (DV)
+5149;Colaborador_5149;2025-06-21;Ativo;Sim;Triagem
+5150;Colaborador_5150;2025-05-24;Ativo;Não;Recebimento
+5151;Colaborador_5151;2025-12-13;Ativo;Não;Reverso (DV)
+5152;Colaborador_5152;2025-01-05;Ativo;Não;Recebimento
+5153;Colaborador_5153;2025-06-22;Ativo;Não;Recebimento
+5154;Colaborador_5154;2025-11-25;Ativo;Não;Triagem
+5155;Colaborador_5155;2025-01-06;Ativo;Não;Triagem
+5156;Colaborador_5156;2025-10-07;Ativo;Não;Recebimento
+5157;Colaborador_5157;2025-09-24;Ativo;Não;Expedição
+5158;Colaborador_5158;2026-02-03;Desligado;Sim;Reverso (DV)
+5159;Colaborador_5159;2026-03-19;Ativo;Não;Expedição
+5160;Colaborador_5160;2026-01-12;Ativo;Não;Triagem
+5161;Colaborador_5161;2026-01-20;Desligado;Não;Triagem
+5162;Colaborador_5162;2026-02-03;Ativo;Não;Expedição
+5163;Colaborador_5163;2025-05-15;Ativo;Não;Reverso (DV)
+5164;Colaborador_5164;2025-09-04;Ativo;Não;Reverso (DV)
+5165;Colaborador_5165;2025-03-10;Ativo;Não;Reverso (DV)
+5166;Colaborador_5166;2026-02-04;Ativo;Não;Recebimento
+5167;Colaborador_5167;2026-02-27;Ativo;Sim;Recebimento
+5168;Colaborador_5168;2025-10-29;Ativo;Não;Triagem
+5169;Colaborador_5169;2025-11-22;Ativo;Sim;Reverso (DV)
+5170;Colaborador_5170;2025-12-23;Ativo;Não;Reverso (DV)
+5171;Colaborador_5171;2025-07-29;Ativo;Sim;Triagem
+5172;Colaborador_5172;2025-03-02;Ativo;Sim;Reverso (DV)
+5173;Colaborador_5173;2025-03-06;Ativo;Não;Expedição
+5174;Colaborador_5174;2025-02-14;Ativo;Não;Reverso (DV)
+5175;Colaborador_5175;2025-04-07;Ativo;Não;Recebimento
+5176;Colaborador_5176;2025-10-07;Ativo;Não;Reverso (DV)
+5177;Colaborador_5177;2025-12-08;Ativo;Não;Triagem
+5178;Colaborador_5178;2025-06-23;Ativo;Não;Recebimento
+5179;Colaborador_5179;2025-01-01;Ativo;Não;Reverso (DV)
+5180;Colaborador_5180;2026-03-12;Desligado;Não;Reverso (DV)
+5181;Colaborador_5181;2026-03-10;Ativo;Sim;Recebimento
+5182;Colaborador_5182;2026-02-13;Ativo;Não;Recebimento
+5183;Colaborador_5183;2025-07-19;Desligado;Não;Reverso (DV)
+5184;Colaborador_5184;2025-11-20;Ativo;Sim;Recebimento
+5185;Colaborador_5185;2025-03-06;Ativo;Sim;Triagem
+5186;Colaborador_5186;2025-07-07;Desligado;Não;Expedição
+5187;Colaborador_5187;2025-11-10;Ativo;Não;Expedição
+5188;Colaborador_5188;2025-07-11;Ativo;Não;Triagem
+5189;Colaborador_5189;2025-01-05;Desligado;Não;Reverso (DV)
+5190;Colaborador_5190;2026-01-13;Ativo;Não;Triagem
+5191;Colaborador_5191;2025-01-29;Desligado;Não;Recebimento
+5192;Colaborador_5192;2025-03-06;Ativo;Sim;Recebimento
+5193;Colaborador_5193;2025-11-06;Desligado;Não;Recebimento
+5194;Colaborador_5194;2025-04-14;Ativo;Sim;Reverso (DV)
+5195;Colaborador_5195;2026-02-13;Ativo;Não;Expedição
+5196;Colaborador_5196;2026-01-15;Ativo;Sim;Recebimento
+5197;Colaborador_5197;2025-07-14;Ativo;Não;Triagem
+5198;Colaborador_5198;2025-12-02;Ativo;Não;Expedição
+5199;Colaborador_5199;2025-03-04;Ativo;Sim;Expedição
+5200;Colaborador_5200;2025-12-30;Ativo;Não;Triagem
+5201;Colaborador_5201;2025-04-08;Ativo;Sim;Reverso (DV)
+5202;Colaborador_5202;2025-01-24;Ativo;Não;Expedição
+5203;Colaborador_5203;2025-04-12;Desligado;Não;Triagem
+5204;Colaborador_5204;2025-12-15;Ativo;Não;Triagem
+5205;Colaborador_5205;2025-03-20;Ativo;Não;Expedição
+5206;Colaborador_5206;2025-06-02;Ativo;Sim;Recebimento
+5207;Colaborador_5207;2025-08-16;Ativo;Não;Reverso (DV)
+5208;Colaborador_5208;2025-09-30;Ativo;Sim;Triagem
+5209;Colaborador_5209;2025-09-03;Ativo;Não;Expedição
+5210;Colaborador_5210;2025-04-04;Desligado;Sim;Expedição
+5211;Colaborador_5211;2025-03-27;Desligado;Não;Recebimento
+5212;Colaborador_5212;2026-03-11;Ativo;Não;Expedição
+5213;Colaborador_5213;2025-05-09;Desligado;Não;Recebimento
+5214;Colaborador_5214;2025-05-02;Desligado;Não;Recebimento
+5215;Colaborador_5215;2025-09-25;Ativo;Não;Triagem
+5216;Colaborador_5216;2025-05-19;Desligado;Não;Triagem
+5217;Colaborador_5217;2025-07-02;Ativo;Não;Reverso (DV)
+5218;Colaborador_5218;2025-09-27;Ativo;Não;Recebimento
+5219;Colaborador_5219;2025-10-10;Desligado;Sim;Recebimento
+5220;Colaborador_5220;2025-11-06;Ativo;Não;Expedição
+5221;Colaborador_5221;2026-02-07;Ativo;Não;Expedição
+5222;Colaborador_5222;2025-06-30;Ativo;Não;Reverso (DV)
+5223;Colaborador_5223;2026-02-16;Desligado;Não;Expedição
+5224;Colaborador_5224;2026-01-24;Desligado;Não;Expedição
+5225;Colaborador_5225;2025-01-31;Desligado;Não;Triagem
+5226;Colaborador_5226;2025-08-03;Ativo;Não;Expedição
+5227;Colaborador_5227;2025-10-01;Desligado;Não;Triagem
+5228;Colaborador_5228;2025-04-08;Ativo;Não;Triagem
+5229;Colaborador_5229;2025-12-08;Desligado;Não;Reverso (DV)
+5230;Colaborador_5230;2025-04-14;Desligado;Não;Reverso (DV)
+5231;Colaborador_5231;2025-08-06;Desligado;Não;Recebimento
+5232;Colaborador_5232;2025-06-18;Ativo;Sim;Triagem
+5233;Colaborador_5233;2025-02-20;Desligado;Sim;Expedição
+5234;Colaborador_5234;2025-10-29;Ativo;Sim;Expedição
+5235;Colaborador_5235;2026-01-18;Ativo;Não;Reverso (DV)
+5236;Colaborador_5236;2025-06-08;Ativo;Sim;Triagem
+5237;Colaborador_5237;2025-02-04;Ativo;Não;Recebimento
+5238;Colaborador_5238;2026-03-06;Ativo;Não;Expedição
+5239;Colaborador_5239;2025-11-06;Ativo;Sim;Expedição
+5240;Colaborador_5240;2025-05-05;Ativo;Não;Expedição
+5241;Colaborador_5241;2025-08-06;Ativo;Não;Expedição
+5242;Colaborador_5242;2026-03-03;Desligado;Sim;Reverso (DV)
+5243;Colaborador_5243;2026-02-04;Ativo;Não;Recebimento
+5244;Colaborador_5244;2025-11-17;Ativo;Não;Recebimento
+5245;Colaborador_5245;2025-05-12;Ativo;Não;Triagem
+5246;Colaborador_5246;2025-03-29;Ativo;Não;Expedição
+5247;Colaborador_5247;2025-07-22;Ativo;Não;Reverso (DV)
+5248;Colaborador_5248;2025-09-27;Desligado;Não;Recebimento
+5249;Colaborador_5249;2025-04-29;Ativo;Não;Triagem
+5250;Colaborador_5250;2026-03-02;Ativo;Sim;Triagem
+5251;Colaborador_5251;2025-11-21;Ativo;Não;Reverso (DV)
+5252;Colaborador_5252;2025-11-19;Ativo;Não;Triagem
+5253;Colaborador_5253;2025-03-15;Desligado;Não;Reverso (DV)
+5254;Colaborador_5254;2025-12-12;Ativo;Não;Recebimento
+5255;Colaborador_5255;2026-02-28;Ativo;Não;Expedição
+5256;Colaborador_5256;2025-01-09;Ativo;Não;Expedição
+5257;Colaborador_5257;2025-09-03;Ativo;Sim;Triagem
+5258;Colaborador_5258;2026-01-15;Ativo;Não;Expedição
+5259;Colaborador_5259;2026-03-08;Desligado;Não;Recebimento
+5260;Colaborador_5260;2025-11-04;Ativo;Sim;Recebimento
+5261;Colaborador_5261;2025-10-10;Desligado;Não;Expedição
+5262;Colaborador_5262;2025-04-27;Ativo;Não;Triagem
+5263;Colaborador_5263;2025-01-03;Ativo;Não;Reverso (DV)
+5264;Colaborador_5264;2025-04-01;Ativo;Não;Triagem
+5265;Colaborador_5265;2025-09-06;Ativo;Não;Triagem
+5266;Colaborador_5266;2026-01-03;Ativo;Não;Reverso (DV)
+5267;Colaborador_5267;2026-01-07;Ativo;Não;Triagem
+5268;Colaborador_5268;2025-10-24;Ativo;Não;Recebimento
+5269;Colaborador_5269;2025-12-31;Ativo;Não;Triagem
+5270;Colaborador_5270;2025-10-20;Ativo;Não;Reverso (DV)
+5271;Colaborador_5271;2025-04-23;Desligado;Não;Expedição
+5272;Colaborador_5272;2025-04-02;Ativo;Não;Reverso (DV)
+5273;Colaborador_5273;2025-07-16;Ativo;Não;Triagem
+5274;Colaborador_5274;2025-09-01;Ativo;Não;Reverso (DV)
+5275;Colaborador_5275;2025-12-26;Ativo;Não;Expedição
+5276;Colaborador_5276;2025-06-25;Ativo;Sim;Expedição
+5277;Colaborador_5277;2026-02-11;Desligado;Não;Recebimento
+5278;Colaborador_5278;2026-03-09;Desligado;Não;Reverso (DV)
+5279;Colaborador_5279;2025-11-20;Ativo;Não;Reverso (DV)
+5280;Colaborador_5280;2025-10-11;Desligado;Não;Recebimento
+5281;Colaborador_5281;2025-03-11;Ativo;Não;Expedição
+5282;Colaborador_5282;2025-05-07;Ativo;Não;Expedição
+5283;Colaborador_5283;2025-04-09;Ativo;Não;Triagem
+5284;Colaborador_5284;2025-03-10;Ativo;Sim;Recebimento
+5285;Colaborador_5285;2025-06-09;Ativo;Não;Triagem
+5286;Colaborador_5286;2025-09-07;Desligado;Não;Recebimento
+5287;Colaborador_5287;2025-01-13;Ativo;Não;Recebimento
+5288;Colaborador_5288;2025-11-22;Ativo;Não;Reverso (DV)
+5289;Colaborador_5289;2025-01-12;Ativo;Não;Triagem
+5290;Colaborador_5290;2025-08-14;Ativo;Não;Triagem
+5291;Colaborador_5291;2026-01-17;Ativo;Não;Expedição
+5292;Colaborador_5292;2025-09-01;Ativo;Não;Triagem
+5293;Colaborador_5293;2025-06-13;Ativo;Sim;Reverso (DV)
+5294;Colaborador_5294;2025-12-09;Ativo;Não;Recebimento
+5295;Colaborador_5295;2025-08-15;Ativo;Sim;Reverso (DV)
+5296;Colaborador_5296;2025-09-07;Ativo;Não;Reverso (DV)
+5297;Colaborador_5297;2025-01-12;Ativo;Não;Triagem
+5298;Colaborador_5298;2026-01-26;Ativo;Não;Reverso (DV)
+5299;Colaborador_5299;2026-03-16;Ativo;Sim;Reverso (DV)
+5300;Colaborador_5300;2025-03-28;Ativo;Não;Triagem
+5301;Colaborador_5301;2025-04-15;Ativo;Não;Triagem
+5302;Colaborador_5302;2026-01-26;Ativo;Não;Triagem
+5303;Colaborador_5303;2025-06-09;Ativo;Não;Expedição
+5304;Colaborador_5304;2025-11-26;Ativo;Não;Recebimento
+5305;Colaborador_5305;2025-07-16;Ativo;Não;Triagem
+5306;Colaborador_5306;2025-03-29;Ativo;Não;Expedição
+5307;Colaborador_5307;2026-01-03;Ativo;Não;Triagem
+5308;Colaborador_5308;2025-10-08;Desligado;Não;Recebimento
+5309;Colaborador_5309;2025-09-18;Desligado;Não;Recebimento
+5310;Colaborador_5310;2025-12-11;Ativo;Não;Expedição
+5311;Colaborador_5311;2026-01-16;Ativo;Não;Reverso (DV)
+5312;Colaborador_5312;2025-12-13;Ativo;Sim;Expedição
+5313;Colaborador_5313;2026-03-24;Ativo;Não;Triagem
+5314;Colaborador_5314;2025-10-14;Ativo;Não;Expedição
+5315;Colaborador_5315;2026-02-19;Ativo;Não;Expedição
+5316;Colaborador_5316;2025-05-06;Ativo;Não;Reverso (DV)
+5317;Colaborador_5317;2025-01-27;Ativo;Não;Triagem
+5318;Colaborador_5318;2025-04-28;Ativo;Não;Expedição
+5319;Colaborador_5319;2026-01-29;Ativo;Não;Reverso (DV)
+5320;Colaborador_5320;2025-04-23;Ativo;Sim;Reverso (DV)
+5321;Colaborador_5321;2026-03-12;Ativo;Não;Reverso (DV)
+5322;Colaborador_5322;2025-05-12;Ativo;Não;Triagem
+5323;Colaborador_5323;2025-08-04;Ativo;Não;Reverso (DV)
+5324;Colaborador_5324;2025-04-08;Desligado;Não;Recebimento
+5325;Colaborador_5325;2025-03-08;Ativo;Não;Reverso (DV)
+5326;Colaborador_5326;2025-09-22;Ativo;Não;Triagem
+5327;Colaborador_5327;2025-06-02;Desligado;Não;Reverso (DV)
+5328;Colaborador_5328;2025-04-05;Ativo;Sim;Expedição
+5329;Colaborador_5329;2025-05-07;Ativo;Não;Triagem
+5330;Colaborador_5330;2026-01-24;Ativo;Não;Triagem
+5331;Colaborador_5331;2026-01-26;Ativo;Não;Triagem
+5332;Colaborador_5332;2025-04-05;Ativo;Não;Triagem
+5333;Colaborador_5333;2025-09-06;Ativo;Não;Reverso (DV)
+5334;Colaborador_5334;2025-04-08;Ativo;Não;Expedição
+5335;Colaborador_5335;2025-06-07;Desligado;Não;Expedição
+5336;Colaborador_5336;2025-12-03;Ativo;Não;Recebimento
+5337;Colaborador_5337;2025-11-13;Ativo;Não;Expedição
+5338;Colaborador_5338;2025-05-09;Ativo;Sim;Reverso (DV)
+5339;Colaborador_5339;2025-05-30;Ativo;Sim;Triagem
+5340;Colaborador_5340;2025-11-06;Ativo;Não;Triagem
+5341;Colaborador_5341;2025-02-16;Ativo;Não;Recebimento
+5342;Colaborador_5342;2026-03-17;Ativo;Não;Expedição
+5343;Colaborador_5343;2025-05-23;Ativo;Não;Recebimento
+5344;Colaborador_5344;2025-07-08;Ativo;Não;Reverso (DV)
+5345;Colaborador_5345;2026-02-10;Desligado;Não;Recebimento
+5346;Colaborador_5346;2026-02-08;Ativo;Não;Reverso (DV)
+5347;Colaborador_5347;2025-09-16;Ativo;Não;Triagem
+5348;Colaborador_5348;2025-07-26;Ativo;Não;Expedição
+5349;Colaborador_5349;2025-09-14;Ativo;Não;Expedição
+5350;Colaborador_5350;2025-10-18;Ativo;Não;Expedição
+5351;Colaborador_5351;2026-02-18;Ativo;Sim;Expedição
+5352;Colaborador_5352;2025-06-08;Ativo;Não;Reverso (DV)
+5353;Colaborador_5353;2025-03-07;Ativo;Não;Expedição
+5354;Colaborador_5354;2026-01-30;Ativo;Não;Triagem
+5355;Colaborador_5355;2025-05-30;Ativo;Não;Triagem
+5356;Colaborador_5356;2025-08-21;Ativo;Não;Reverso (DV)
+5357;Colaborador_5357;2025-02-26;Ativo;Não;Reverso (DV)
+5358;Colaborador_5358;2026-03-10;Ativo;Não;Reverso (DV)
+5359;Colaborador_5359;2025-12-09;Desligado;Não;Reverso (DV)
+5360;Colaborador_5360;2025-01-10;Desligado;Não;Recebimento
+5361;Colaborador_5361;2025-07-09;Ativo;Não;Triagem
+5362;Colaborador_5362;2025-04-04;Ativo;Não;Reverso (DV)
+5363;Colaborador_5363;2025-02-19;Ativo;Não;Recebimento
+5364;Colaborador_5364;2026-01-15;Ativo;Sim;Recebimento
+5365;Colaborador_5365;2025-07-18;Ativo;Não;Triagem
+5366;Colaborador_5366;2025-09-15;Ativo;Não;Reverso (DV)
+5367;Colaborador_5367;2025-04-18;Ativo;Não;Reverso (DV)
+5368;Colaborador_5368;2025-08-03;Ativo;Não;Reverso (DV)
+5369;Colaborador_5369;2025-11-04;Ativo;Não;Expedição
+5370;Colaborador_5370;2025-06-30;Ativo;Não;Expedição
+5371;Colaborador_5371;2025-09-03;Desligado;Sim;Reverso (DV)
+5372;Colaborador_5372;2026-03-04;Desligado;Não;Expedição
+5373;Colaborador_5373;2025-08-08;Ativo;Não;Recebimento
+5374;Colaborador_5374;2026-01-11;Ativo;Não;Recebimento
+5375;Colaborador_5375;2026-03-02;Ativo;Não;Reverso (DV)
+5376;Colaborador_5376;2025-02-08;Desligado;Não;Reverso (DV)
+5377;Colaborador_5377;2025-08-03;Ativo;Não;Reverso (DV)
+5378;Colaborador_5378;2025-06-24;Ativo;Não;Recebimento
+5379;Colaborador_5379;2025-06-27;Ativo;Não;Reverso (DV)
+5380;Colaborador_5380;2025-12-15;Ativo;Não;Reverso (DV)
+5381;Colaborador_5381;2025-12-28;Ativo;Não;Reverso (DV)
+5382;Colaborador_5382;2026-03-08;Ativo;Não;Triagem
+5383;Colaborador_5383;2025-11-20;Ativo;Não;Recebimento
+5384;Colaborador_5384;2025-10-03;Ativo;Não;Triagem
+5385;Colaborador_5385;2025-11-10;Ativo;Não;Expedição
+5386;Colaborador_5386;2025-10-29;Ativo;Não;Recebimento
+5387;Colaborador_5387;2025-06-13;Ativo;Sim;Reverso (DV)
+5388;Colaborador_5388;2025-02-03;Ativo;Não;Reverso (DV)
+5389;Colaborador_5389;2025-05-02;Desligado;Não;Triagem
+5390;Colaborador_5390;2025-06-18;Ativo;Não;Reverso (DV)
+5391;Colaborador_5391;2025-09-09;Ativo;Não;Recebimento
+5392;Colaborador_5392;2025-05-23;Ativo;Não;Reverso (DV)
+5393;Colaborador_5393;2025-07-26;Desligado;Não;Expedição
+5394;Colaborador_5394;2026-01-27;Desligado;Não;Expedição
+5395;Colaborador_5395;2025-07-24;Desligado;Sim;Recebimento
+5396;Colaborador_5396;2025-06-23;Ativo;Não;Reverso (DV)
+5397;Colaborador_5397;2025-06-19;Ativo;Não;Expedição
+5398;Colaborador_5398;2025-05-03;Ativo;Não;Triagem
+5399;Colaborador_5399;2025-09-02;Ativo;Não;Reverso (DV)
+5400;Colaborador_5400;2025-02-21;Ativo;Não;Reverso (DV)
+5401;Colaborador_5401;2025-07-06;Ativo;Não;Expedição
+5402;Colaborador_5402;2025-08-08;Ativo;Não;Triagem
+5403;Colaborador_5403;2025-07-16;Desligado;Não;Reverso (DV)
+5404;Colaborador_5404;2025-01-15;Ativo;Não;Expedição
+5405;Colaborador_5405;2025-10-15;Desligado;Não;Expedição
+5406;Colaborador_5406;2025-08-17;Desligado;Sim;Recebimento
+5407;Colaborador_5407;2025-03-10;Ativo;Não;Triagem
+5408;Colaborador_5408;2026-03-15;Desligado;Sim;Reverso (DV)
+5409;Colaborador_5409;2026-02-05;Ativo;Não;Reverso (DV)
+5410;Colaborador_5410;2025-12-12;Desligado;Não;Recebimento
+5411;Colaborador_5411;2026-03-17;Ativo;Não;Expedição
+5412;Colaborador_5412;2026-02-19;Ativo;Não;Expedição
+5413;Colaborador_5413;2025-11-26;Ativo;Não;Reverso (DV)
+5414;Colaborador_5414;2025-01-19;Desligado;Não;Recebimento
+5415;Colaborador_5415;2026-02-06;Ativo;Sim;Expedição
+5416;Colaborador_5416;2025-03-30;Ativo;Sim;Recebimento
+5417;Colaborador_5417;2025-06-03;Ativo;Não;Reverso (DV)
+5418;Colaborador_5418;2025-11-08;Ativo;Não;Triagem
+5419;Colaborador_5419;2026-02-13;Ativo;Não;Recebimento
+5420;Colaborador_5420;2025-02-19;Ativo;Não;Triagem
+5421;Colaborador_5421;2025-06-05;Ativo;Não;Reverso (DV)
+5422;Colaborador_5422;2025-12-24;Ativo;Não;Reverso (DV)
+5423;Colaborador_5423;2025-01-19;Ativo;Não;Reverso (DV)
+5424;Colaborador_5424;2026-03-22;Desligado;Não;Reverso (DV)
+5425;Colaborador_5425;2025-05-08;Desligado;Sim;Expedição
+5426;Colaborador_5426;2025-10-02;Ativo;Não;Expedição
+5427;Colaborador_5427;2025-04-30;Ativo;Sim;Reverso (DV)
+5428;Colaborador_5428;2026-01-09;Ativo;Sim;Reverso (DV)
+5429;Colaborador_5429;2025-08-25;Ativo;Não;Reverso (DV)
+5430;Colaborador_5430;2025-08-19;Ativo;Não;Expedição
+5431;Colaborador_5431;2025-04-21;Desligado;Não;Expedição
+5432;Colaborador_5432;2025-01-23;Ativo;Não;Recebimento
+5433;Colaborador_5433;2025-07-06;Ativo;Não;Reverso (DV)
+5434;Colaborador_5434;2026-03-04;Ativo;Sim;Expedição
+5435;Colaborador_5435;2026-01-05;Ativo;Não;Expedição
+5436;Colaborador_5436;2026-03-20;Ativo;Sim;Reverso (DV)
+5437;Colaborador_5437;2025-02-15;Ativo;Sim;Expedição
+5438;Colaborador_5438;2025-06-23;Desligado;Não;Expedição
+5439;Colaborador_5439;2026-03-20;Ativo;Não;Expedição
+5440;Colaborador_5440;2025-12-28;Ativo;Não;Recebimento
+5441;Colaborador_5441;2025-08-26;Desligado;Não;Recebimento
+5442;Colaborador_5442;2025-01-16;Ativo;Não;Triagem
+5443;Colaborador_5443;2026-01-12;Ativo;Não;Expedição
+5444;Colaborador_5444;2025-08-22;Ativo;Sim;Reverso (DV)
+5445;Colaborador_5445;2026-01-17;Desligado;Sim;Recebimento
+5446;Colaborador_5446;2025-04-05;Ativo;Não;Recebimento
+5447;Colaborador_5447;2025-01-25;Ativo;Não;Recebimento
+5448;Colaborador_5448;2025-04-15;Ativo;Não;Recebimento
+5449;Colaborador_5449;2025-04-28;Ativo;Não;Triagem
+5450;Colaborador_5450;2025-12-26;Ativo;Não;Reverso (DV)
+5451;Colaborador_5451;2025-09-17;Desligado;Não;Reverso (DV)
+5452;Colaborador_5452;2025-04-07;Ativo;Sim;Reverso (DV)
+5453;Colaborador_5453;2025-11-11;Ativo;Não;Triagem
+5454;Colaborador_5454;2025-05-01;Desligado;Sim;Reverso (DV)
+5455;Colaborador_5455;2026-01-25;Desligado;Não;Reverso (DV)
+5456;Colaborador_5456;2025-06-30;Ativo;Não;Reverso (DV)
+5457;Colaborador_5457;2025-07-15;Ativo;Não;Recebimento
+5458;Colaborador_5458;2025-02-15;Desligado;Não;Triagem
+5459;Colaborador_5459;2025-08-20;Ativo;Sim;Triagem
+5460;Colaborador_5460;2025-12-30;Ativo;Não;Reverso (DV)
+5461;Colaborador_5461;2025-11-21;Ativo;Não;Expedição
+5462;Colaborador_5462;2026-02-11;Ativo;Não;Reverso (DV)
+5463;Colaborador_5463;2025-01-06;Ativo;Não;Reverso (DV)
+5464;Colaborador_5464;2025-11-08;Ativo;Não;Triagem
+5465;Colaborador_5465;2025-02-07;Ativo;Não;Expedição
+5466;Colaborador_5466;2025-06-09;Ativo;Não;Triagem
+5467;Colaborador_5467;2025-10-13;Ativo;Não;Recebimento
+5468;Colaborador_5468;2026-02-18;Desligado;Não;Recebimento
+5469;Colaborador_5469;2025-08-18;Desligado;Não;Recebimento
+5470;Colaborador_5470;2025-07-27;Ativo;Não;Triagem
+5471;Colaborador_5471;2025-02-23;Ativo;Não;Recebimento
+5472;Colaborador_5472;2026-02-05;Ativo;Não;Expedição
+5473;Colaborador_5473;2025-06-27;Ativo;Não;Triagem
+5474;Colaborador_5474;2025-05-22;Ativo;Não;Expedição
+5475;Colaborador_5475;2025-01-24;Ativo;Não;Recebimento
+5476;Colaborador_5476;2026-02-03;Ativo;Não;Expedição
+5477;Colaborador_5477;2025-06-14;Ativo;Não;Expedição
+5478;Colaborador_5478;2025-08-17;Ativo;Não;Recebimento
+5479;Colaborador_5479;2025-04-15;Ativo;Não;Reverso (DV)
+5480;Colaborador_5480;2025-04-23;Ativo;Não;Triagem
+5481;Colaborador_5481;2025-01-22;Ativo;Não;Triagem
+5482;Colaborador_5482;2025-01-28;Desligado;Não;Expedição
+5483;Colaborador_5483;2025-05-08;Ativo;Sim;Recebimento
+5484;Colaborador_5484;2025-02-16;Ativo;Não;Expedição
+5485;Colaborador_5485;2025-07-19;Desligado;Sim;Expedição
+5486;Colaborador_5486;2026-01-27;Ativo;Não;Recebimento
+5487;Colaborador_5487;2025-03-15;Ativo;Não;Reverso (DV)
+5488;Colaborador_5488;2025-05-04;Desligado;Não;Reverso (DV)
+5489;Colaborador_5489;2025-06-02;Ativo;Não;Triagem
+5490;Colaborador_5490;2025-01-02;Ativo;Não;Triagem
+5491;Colaborador_5491;2025-05-17;Ativo;Não;Triagem
+5492;Colaborador_5492;2025-10-01;Ativo;Não;Triagem
+5493;Colaborador_5493;2025-08-16;Ativo;Sim;Triagem
+5494;Colaborador_5494;2025-05-23;Desligado;Não;Recebimento
+5495;Colaborador_5495;2025-04-10;Desligado;Sim;Triagem
+5496;Colaborador_5496;2025-08-21;Ativo;Não;Expedição
+5497;Colaborador_5497;2025-04-28;Ativo;Sim;Expedição
+5498;Colaborador_5498;2025-10-23;Desligado;Não;Expedição
+5499;Colaborador_5499;2025-04-08;Ativo;Não;Reverso (DV)
+5500;Colaborador_5500;2026-03-07;Ativo;Não;Expedição
+5501;Colaborador_5501;2025-03-18;Ativo;Não;Expedição
+5502;Colaborador_5502;2025-04-22;Ativo;Não;Expedição
+5503;Colaborador_5503;2025-01-31;Ativo;Não;Reverso (DV)
+5504;Colaborador_5504;2025-11-24;Ativo;Não;Recebimento
+5505;Colaborador_5505;2025-06-13;Desligado;Não;Expedição
+5506;Colaborador_5506;2025-11-09;Ativo;Não;Expedição
+5507;Colaborador_5507;2026-01-27;Ativo;Sim;Recebimento
+5508;Colaborador_5508;2025-05-04;Ativo;Não;Triagem
+5509;Colaborador_5509;2025-02-04;Ativo;Não;Triagem
+5510;Colaborador_5510;2026-03-26;Ativo;Não;Recebimento
+5511;Colaborador_5511;2025-01-28;Desligado;Não;Triagem
+5512;Colaborador_5512;2025-12-17;Ativo;Não;Expedição
+5513;Colaborador_5513;2025-12-06;Ativo;Sim;Triagem
+5514;Colaborador_5514;2025-09-29;Ativo;Não;Recebimento
+5515;Colaborador_5515;2025-05-22;Ativo;Não;Expedição
+5516;Colaborador_5516;2025-07-15;Ativo;Sim;Triagem
+5517;Colaborador_5517;2025-03-01;Ativo;Não;Reverso (DV)
+5518;Colaborador_5518;2025-05-27;Ativo;Não;Triagem
+5519;Colaborador_5519;2025-06-20;Ativo;Não;Triagem
+5520;Colaborador_5520;2025-03-10;Ativo;Sim;Expedição
+5521;Colaborador_5521;2026-03-14;Ativo;Sim;Recebimento
+5522;Colaborador_5522;2025-12-31;Ativo;Não;Reverso (DV)
+5523;Colaborador_5523;2025-12-19;Desligado;Não;Triagem
+5524;Colaborador_5524;2025-02-23;Ativo;Não;Expedição
+5525;Colaborador_5525;2025-08-14;Ativo;Sim;Triagem
+5526;Colaborador_5526;2026-01-28;Ativo;Não;Reverso (DV)
+5527;Colaborador_5527;2025-05-10;Ativo;Sim;Expedição
+5528;Colaborador_5528;2025-11-19;Desligado;Não;Expedição
+5529;Colaborador_5529;2025-12-12;Ativo;Não;Triagem
+5530;Colaborador_5530;2025-05-17;Desligado;Não;Expedição
+5531;Colaborador_5531;2025-04-05;Ativo;Não;Recebimento
+5532;Colaborador_5532;2025-12-16;Ativo;Não;Triagem
+5533;Colaborador_5533;2026-01-11;Ativo;Sim;Reverso (DV)
+5534;Colaborador_5534;2026-03-07;Ativo;Sim;Expedição
+5535;Colaborador_5535;2025-04-29;Ativo;Sim;Triagem
+5536;Colaborador_5536;2025-10-23;Ativo;Não;Expedição
+5537;Colaborador_5537;2025-02-12;Ativo;Não;Reverso (DV)
+5538;Colaborador_5538;2025-11-05;Ativo;Não;Reverso (DV)
+5539;Colaborador_5539;2025-10-02;Ativo;Não;Reverso (DV)
+5540;Colaborador_5540;2025-12-29;Ativo;Não;Triagem
+5541;Colaborador_5541;2025-05-30;Ativo;Não;Triagem
+5542;Colaborador_5542;2026-02-06;Desligado;Não;Recebimento
+5543;Colaborador_5543;2026-02-06;Ativo;Não;Recebimento
+5544;Colaborador_5544;2025-08-18;Ativo;Não;Reverso (DV)
+5545;Colaborador_5545;2025-12-11;Ativo;Sim;Expedição
+5546;Colaborador_5546;2025-03-29;Ativo;Não;Recebimento
+5547;Colaborador_5547;2025-01-27;Ativo;Não;Reverso (DV)
+5548;Colaborador_5548;2025-11-16;Ativo;Não;Triagem
+5549;Colaborador_5549;2025-06-23;Ativo;Não;Triagem
+5550;Colaborador_5550;2025-04-27;Ativo;Não;Reverso (DV)
+5551;Colaborador_5551;2025-09-17;Ativo;Sim;Recebimento
+5552;Colaborador_5552;2025-08-06;Ativo;Não;Reverso (DV)
+5553;Colaborador_5553;2025-07-19;Ativo;Não;Recebimento
+5554;Colaborador_5554;2025-05-07;Desligado;Não;Recebimento
+5555;Colaborador_5555;2025-04-22;Desligado;Sim;Reverso (DV)
+5556;Colaborador_5556;2025-11-05;Ativo;Não;Triagem
+5557;Colaborador_5557;2025-09-30;Ativo;Não;Recebimento
+5558;Colaborador_5558;2025-08-17;Ativo;Não;Recebimento
+5559;Colaborador_5559;2025-02-07;Ativo;Sim;Triagem
+5560;Colaborador_5560;2025-08-13;Ativo;Sim;Recebimento
+5561;Colaborador_5561;2025-01-08;Ativo;Não;Expedição
+5562;Colaborador_5562;2026-03-23;Ativo;Sim;Reverso (DV)
+5563;Colaborador_5563;2026-01-05;Ativo;Não;Expedição
+5564;Colaborador_5564;2025-12-30;Ativo;Não;Triagem
+5565;Colaborador_5565;2025-04-13;Ativo;Não;Triagem
+5566;Colaborador_5566;2025-05-22;Ativo;Não;Recebimento
+5567;Colaborador_5567;2025-08-25;Ativo;Não;Reverso (DV)
+5568;Colaborador_5568;2025-11-27;Ativo;Não;Recebimento
+5569;Colaborador_5569;2025-03-11;Ativo;Não;Recebimento
+5570;Colaborador_5570;2025-08-24;Ativo;Não;Recebimento
+5571;Colaborador_5571;2025-11-24;Desligado;Não;Expedição
+5572;Colaborador_5572;2025-05-25;Desligado;Não;Recebimento
+5573;Colaborador_5573;2025-12-01;Ativo;Não;Expedição
+5574;Colaborador_5574;2025-09-29;Ativo;Sim;Reverso (DV)
+5575;Colaborador_5575;2025-07-13;Ativo;Sim;Triagem
+5576;Colaborador_5576;2025-01-02;Ativo;Não;Recebimento
+5577;Colaborador_5577;2026-02-05;Ativo;Não;Recebimento
+5578;Colaborador_5578;2025-08-02;Ativo;Não;Triagem
+5579;Colaborador_5579;2026-01-28;Desligado;Não;Expedição
+5580;Colaborador_5580;2025-06-03;Ativo;Não;Reverso (DV)
+5581;Colaborador_5581;2025-05-21;Ativo;Não;Reverso (DV)
+5582;Colaborador_5582;2026-02-18;Ativo;Não;Triagem
+5583;Colaborador_5583;2025-01-22;Ativo;Não;Triagem
+5584;Colaborador_5584;2026-02-26;Desligado;Não;Triagem
+5585;Colaborador_5585;2025-12-19;Ativo;Não;Expedição
+5586;Colaborador_5586;2025-07-29;Ativo;Não;Triagem
+5587;Colaborador_5587;2025-12-18;Ativo;Não;Reverso (DV)
+5588;Colaborador_5588;2025-01-26;Ativo;Não;Expedição
+5589;Colaborador_5589;2026-03-17;Ativo;Sim;Reverso (DV)
+5590;Colaborador_5590;2025-06-10;Ativo;Não;Reverso (DV)
+5591;Colaborador_5591;2025-03-23;Ativo;Sim;Recebimento
+5592;Colaborador_5592;2025-02-12;Ativo;Não;Triagem
+5593;Colaborador_5593;2026-02-12;Ativo;Não;Expedição
+5594;Colaborador_5594;2025-01-04;Ativo;Não;Expedição
+5595;Colaborador_5595;2025-06-21;Ativo;Não;Expedição
+5596;Colaborador_5596;2025-03-21;Desligado;Não;Reverso (DV)
+5597;Colaborador_5597;2026-03-25;Desligado;Não;Recebimento
+5598;Colaborador_5598;2025-12-31;Ativo;Não;Triagem
+5599;Colaborador_5599;2025-07-28;Ativo;Não;Reverso (DV)
+5600;Colaborador_5600;2025-06-09;Ativo;Não;Triagem
+5601;Colaborador_5601;2025-07-11;Desligado;Não;Recebimento
+5602;Colaborador_5602;2025-12-28;Desligado;Não;Expedição
+5603;Colaborador_5603;2025-01-23;Ativo;Não;Reverso (DV)
+5604;Colaborador_5604;2025-09-20;Ativo;Não;Expedição
+5605;Colaborador_5605;2025-12-19;Ativo;Não;Recebimento
+5606;Colaborador_5606;2025-07-20;Ativo;Não;Reverso (DV)
+5607;Colaborador_5607;2025-02-10;Ativo;Não;Triagem
+5608;Colaborador_5608;2025-11-24;Ativo;Não;Recebimento
+5609;Colaborador_5609;2025-01-26;Ativo;Sim;Reverso (DV)
+5610;Colaborador_5610;2025-06-11;Ativo;Sim;Expedição
+5611;Colaborador_5611;2025-11-11;Ativo;Não;Triagem
+5612;Colaborador_5612;2025-05-01;Desligado;Não;Triagem
+5613;Colaborador_5613;2025-10-29;Ativo;Não;Triagem
+5614;Colaborador_5614;2025-12-12;Ativo;Não;Expedição
+5615;Colaborador_5615;2025-06-10;Ativo;Não;Triagem
+5616;Colaborador_5616;2026-02-23;Ativo;Não;Recebimento
+5617;Colaborador_5617;2025-05-27;Ativo;Não;Reverso (DV)
+5618;Colaborador_5618;2025-02-22;Desligado;Não;Recebimento
+5619;Colaborador_5619;2026-02-08;Ativo;Não;Triagem
+5620;Colaborador_5620;2025-09-02;Ativo;Não;Triagem
+5621;Colaborador_5621;2025-10-08;Desligado;Não;Reverso (DV)
+5622;Colaborador_5622;2026-02-04;Ativo;Sim;Expedição
+5623;Colaborador_5623;2025-10-03;Desligado;Não;Recebimento
+5624;Colaborador_5624;2025-08-04;Ativo;Não;Expedição
+5625;Colaborador_5625;2025-12-27;Desligado;Não;Expedição
+5626;Colaborador_5626;2025-12-14;Ativo;Não;Expedição
+5627;Colaborador_5627;2025-07-26;Desligado;Sim;Reverso (DV)
+5628;Colaborador_5628;2025-05-29;Ativo;Não;Triagem
+5629;Colaborador_5629;2026-02-13;Desligado;Não;Triagem
+5630;Colaborador_5630;2025-02-27;Ativo;Sim;Recebimento
+5631;Colaborador_5631;2025-02-14;Desligado;Não;Expedição
+5632;Colaborador_5632;2025-05-21;Ativo;Sim;Reverso (DV)
+5633;Colaborador_5633;2025-03-16;Ativo;Não;Triagem
+5634;Colaborador_5634;2025-04-27;Ativo;Não;Expedição
+5635;Colaborador_5635;2025-11-18;Ativo;Não;Expedição
+5636;Colaborador_5636;2025-02-06;Ativo;Não;Reverso (DV)
+5637;Colaborador_5637;2025-11-01;Ativo;Não;Triagem
+5638;Colaborador_5638;2025-11-29;Ativo;Sim;Expedição
+5639;Colaborador_5639;2025-06-16;Ativo;Não;Recebimento
+5640;Colaborador_5640;2025-02-06;Desligado;Não;Reverso (DV)
+5641;Colaborador_5641;2025-05-31;Ativo;Não;Recebimento
+5642;Colaborador_5642;2025-01-03;Ativo;Não;Recebimento
+5643;Colaborador_5643;2026-02-07;Ativo;Não;Reverso (DV)
+5644;Colaborador_5644;2025-10-30;Desligado;Não;Recebimento
+5645;Colaborador_5645;2026-02-23;Ativo;Não;Triagem
+5646;Colaborador_5646;2025-09-23;Ativo;Sim;Triagem
+5647;Colaborador_5647;2025-06-13;Ativo;Não;Recebimento
+5648;Colaborador_5648;2025-12-09;Desligado;Não;Recebimento
+5649;Colaborador_5649;2025-01-28;Ativo;Não;Triagem
+5650;Colaborador_5650;2026-02-24;Desligado;Não;Reverso (DV)
+5651;Colaborador_5651;2025-01-03;Desligado;Sim;Recebimento
+5652;Colaborador_5652;2025-11-15;Ativo;Não;Expedição
+5653;Colaborador_5653;2025-02-06;Ativo;Não;Triagem
+5654;Colaborador_5654;2025-07-13;Ativo;Sim;Reverso (DV)
+5655;Colaborador_5655;2025-08-26;Ativo;Não;Recebimento
+5656;Colaborador_5656;2025-02-13;Ativo;Não;Expedição
+5657;Colaborador_5657;2025-09-09;Desligado;Não;Expedição
+5658;Colaborador_5658;2026-02-21;Ativo;Sim;Expedição
+5659;Colaborador_5659;2025-09-05;Ativo;Não;Recebimento
+5660;Colaborador_5660;2025-09-24;Ativo;Sim;Expedição
+5661;Colaborador_5661;2025-12-30;Ativo;Não;Recebimento
+5662;Colaborador_5662;2025-12-20;Ativo;Não;Reverso (DV)
+5663;Colaborador_5663;2025-07-25;Ativo;Sim;Triagem
+5664;Colaborador_5664;2025-10-12;Ativo;Sim;Reverso (DV)
+5665;Colaborador_5665;2025-11-11;Ativo;Não;Triagem
+5666;Colaborador_5666;2025-06-11;Ativo;Não;Reverso (DV)
+5667;Colaborador_5667;2025-12-24;Desligado;Não;Reverso (DV)
+5668;Colaborador_5668;2025-08-30;Ativo;Não;Recebimento
+5669;Colaborador_5669;2025-11-14;Ativo;Não;Recebimento
+5670;Colaborador_5670;2026-02-27;Desligado;Não;Expedição
+5671;Colaborador_5671;2025-05-10;Ativo;Sim;Recebimento
+5672;Colaborador_5672;2025-07-24;Ativo;Não;Recebimento
+5673;Colaborador_5673;2025-10-29;Desligado;Não;Triagem
+5674;Colaborador_5674;2025-08-11;Ativo;Sim;Triagem
+5675;Colaborador_5675;2025-07-06;Ativo;Não;Triagem
+5676;Colaborador_5676;2025-07-07;Ativo;Não;Reverso (DV)
+5677;Colaborador_5677;2025-10-21;Ativo;Sim;Recebimento
+5678;Colaborador_5678;2025-09-28;Ativo;Não;Reverso (DV)
+5679;Colaborador_5679;2025-12-09;Ativo;Não;Recebimento
+5680;Colaborador_5680;2025-11-27;Ativo;Não;Recebimento
+5681;Colaborador_5681;2025-06-21;Ativo;Não;Expedição
+5682;Colaborador_5682;2025-11-22;Desligado;Não;Reverso (DV)
+5683;Colaborador_5683;2026-01-24;Ativo;Não;Triagem
+5684;Colaborador_5684;2025-02-16;Ativo;Não;Recebimento
+5685;Colaborador_5685;2025-08-06;Desligado;Não;Recebimento
+5686;Colaborador_5686;2025-07-23;Ativo;Não;Expedição
+5687;Colaborador_5687;2025-08-24;Ativo;Não;Recebimento
+5688;Colaborador_5688;2025-02-08;Ativo;Não;Recebimento
+5689;Colaborador_5689;2026-01-29;Desligado;Não;Expedição
+5690;Colaborador_5690;2026-01-14;Ativo;Não;Triagem
+5691;Colaborador_5691;2025-03-18;Desligado;Não;Reverso (DV)
+5692;Colaborador_5692;2026-03-07;Desligado;Não;Expedição
+5693;Colaborador_5693;2025-04-02;Ativo;Não;Expedição
+5694;Colaborador_5694;2025-05-15;Ativo;Não;Triagem
+5695;Colaborador_5695;2025-09-12;Ativo;Não;Expedição
+5696;Colaborador_5696;2025-06-10;Ativo;Não;Expedição
+5697;Colaborador_5697;2025-04-09;Ativo;Não;Reverso (DV)
+5698;Colaborador_5698;2025-04-01;Ativo;Sim;Expedição
+5699;Colaborador_5699;2025-01-15;Desligado;Não;Recebimento
+5700;Colaborador_5700;2025-04-27;Ativo;Não;Reverso (DV)
+5701;Colaborador_5701;2025-03-31;Ativo;Não;Triagem
+5702;Colaborador_5702;2026-03-15;Ativo;Sim;Recebimento
+5703;Colaborador_5703;2025-07-22;Ativo;Não;Recebimento
+5704;Colaborador_5704;2025-06-15;Ativo;Não;Triagem
+5705;Colaborador_5705;2025-07-27;Ativo;Não;Triagem
+5706;Colaborador_5706;2025-11-02;Ativo;Não;Recebimento
+5707;Colaborador_5707;2025-11-18;Ativo;Não;Recebimento
+5708;Colaborador_5708;2025-02-22;Ativo;Não;Reverso (DV)
+5709;Colaborador_5709;2025-02-02;Ativo;Não;Expedição
+5710;Colaborador_5710;2026-02-15;Desligado;Não;Recebimento
+5711;Colaborador_5711;2025-05-21;Ativo;Não;Reverso (DV)
+5712;Colaborador_5712;2026-01-20;Ativo;Não;Recebimento
+5713;Colaborador_5713;2025-01-29;Ativo;Não;Recebimento
+5714;Colaborador_5714;2026-02-12;Ativo;Não;Triagem
+5715;Colaborador_5715;2025-04-22;Ativo;Não;Triagem
+5716;Colaborador_5716;2026-02-01;Desligado;Não;Recebimento
+5717;Colaborador_5717;2025-09-15;Ativo;Não;Triagem
+5718;Colaborador_5718;2025-08-06;Ativo;Não;Recebimento
+5719;Colaborador_5719;2025-06-20;Ativo;Não;Reverso (DV)
+5720;Colaborador_5720;2025-03-08;Ativo;Não;Reverso (DV)
+5721;Colaborador_5721;2025-09-22;Ativo;Não;Reverso (DV)
+5722;Colaborador_5722;2025-02-17;Ativo;Não;Triagem
+5723;Colaborador_5723;2025-10-09;Ativo;Não;Triagem
+5724;Colaborador_5724;2025-09-27;Ativo;Não;Reverso (DV)
+5725;Colaborador_5725;2025-02-07;Ativo;Não;Recebimento
+5726;Colaborador_5726;2025-02-19;Ativo;Não;Reverso (DV)
+5727;Colaborador_5727;2025-02-24;Ativo;Não;Triagem
+5728;Colaborador_5728;2026-01-19;Ativo;Não;Reverso (DV)
+5729;Colaborador_5729;2025-02-02;Desligado;Não;Expedição
+5730;Colaborador_5730;2025-07-24;Ativo;Não;Recebimento
+5731;Colaborador_5731;2025-03-31;Desligado;Não;Triagem
+5732;Colaborador_5732;2025-01-03;Ativo;Não;Triagem
+5733;Colaborador_5733;2025-01-21;Ativo;Não;Expedição
+5734;Colaborador_5734;2025-05-15;Desligado;Sim;Reverso (DV)
+5735;Colaborador_5735;2025-07-13;Desligado;Sim;Recebimento
+5736;Colaborador_5736;2025-02-10;Desligado;Não;Reverso (DV)
+5737;Colaborador_5737;2025-08-05;Ativo;Não;Reverso (DV)
+5738;Colaborador_5738;2025-08-21;Ativo;Não;Recebimento
+5739;Colaborador_5739;2026-03-10;Ativo;Sim;Recebimento
+5740;Colaborador_5740;2025-03-02;Ativo;Sim;Triagem
+5741;Colaborador_5741;2025-09-05;Ativo;Sim;Expedição
+5742;Colaborador_5742;2026-02-24;Ativo;Não;Expedição
+5743;Colaborador_5743;2025-05-15;Desligado;Não;Reverso (DV)
+5744;Colaborador_5744;2026-02-05;Ativo;Não;Reverso (DV)
+5745;Colaborador_5745;2025-09-12;Ativo;Sim;Expedição
+5746;Colaborador_5746;2025-03-26;Ativo;Sim;Reverso (DV)
+5747;Colaborador_5747;2025-08-15;Ativo;Não;Triagem
+5748;Colaborador_5748;2026-02-03;Ativo;Não;Expedição
+5749;Colaborador_5749;2025-12-17;Ativo;Sim;Reverso (DV)
+5750;Colaborador_5750;2025-06-09;Ativo;Não;Triagem
+5751;Colaborador_5751;2025-06-11;Desligado;Não;Reverso (DV)
+5752;Colaborador_5752;2025-10-29;Ativo;Não;Expedição
+5753;Colaborador_5753;2026-01-01;Ativo;Não;Expedição
+5754;Colaborador_5754;2025-03-11;Ativo;Não;Expedição
+5755;Colaborador_5755;2025-01-01;Ativo;Não;Expedição
+5756;Colaborador_5756;2025-08-23;Desligado;Não;Expedição
+5757;Colaborador_5757;2025-09-22;Ativo;Não;Expedição
+5758;Colaborador_5758;2025-04-27;Ativo;Não;Recebimento
+5759;Colaborador_5759;2025-10-03;Ativo;Não;Recebimento
+5760;Colaborador_5760;2025-06-24;Desligado;Sim;Expedição
+5761;Colaborador_5761;2026-01-25;Ativo;Não;Reverso (DV)
+5762;Colaborador_5762;2025-08-22;Ativo;Não;Recebimento
+5763;Colaborador_5763;2025-02-20;Ativo;Não;Recebimento
+5764;Colaborador_5764;2025-04-01;Ativo;Não;Triagem
+5765;Colaborador_5765;2025-07-30;Ativo;Sim;Recebimento
+5766;Colaborador_5766;2025-11-23;Ativo;Não;Expedição
+5767;Colaborador_5767;2025-08-22;Ativo;Não;Reverso (DV)
+5768;Colaborador_5768;2026-02-11;Ativo;Não;Recebimento
+5769;Colaborador_5769;2025-04-30;Ativo;Não;Triagem
+5770;Colaborador_5770;2025-08-02;Ativo;Não;Expedição
+5771;Colaborador_5771;2025-01-27;Ativo;Não;Triagem
+5772;Colaborador_5772;2025-12-17;Ativo;Não;Reverso (DV)
+5773;Colaborador_5773;2026-03-11;Desligado;Não;Reverso (DV)
+5774;Colaborador_5774;2026-03-03;Ativo;Não;Expedição
+5775;Colaborador_5775;2025-01-11;Desligado;Não;Expedição
+5776;Colaborador_5776;2025-11-01;Ativo;Não;Triagem
+5777;Colaborador_5777;2025-05-16;Desligado;Não;Recebimento
+5778;Colaborador_5778;2025-04-22;Ativo;Não;Recebimento
+5779;Colaborador_5779;2025-05-17;Ativo;Sim;Expedição
+5780;Colaborador_5780;2025-10-02;Desligado;Não;Expedição
+5781;Colaborador_5781;2025-02-07;Ativo;Não;Expedição
+5782;Colaborador_5782;2026-02-12;Ativo;Não;Expedição
+5783;Colaborador_5783;2025-10-26;Ativo;Não;Triagem
+5784;Colaborador_5784;2025-01-30;Ativo;Não;Expedição
+5785;Colaborador_5785;2026-01-04;Desligado;Não;Triagem
+5786;Colaborador_5786;2025-12-05;Desligado;Sim;Expedição
+5787;Colaborador_5787;2026-03-16;Ativo;Não;Triagem
+5788;Colaborador_5788;2025-01-09;Ativo;Não;Triagem
+5789;Colaborador_5789;2025-12-13;Ativo;Não;Recebimento
+5790;Colaborador_5790;2025-11-21;Ativo;Não;Triagem
+5791;Colaborador_5791;2025-09-05;Ativo;Não;Triagem
+5792;Colaborador_5792;2025-10-23;Ativo;Não;Expedição
+5793;Colaborador_5793;2025-03-09;Ativo;Não;Recebimento
+5794;Colaborador_5794;2025-11-14;Ativo;Não;Triagem
+5795;Colaborador_5795;2026-02-21;Ativo;Não;Reverso (DV)
+5796;Colaborador_5796;2025-06-20;Desligado;Não;Recebimento
+5797;Colaborador_5797;2025-05-28;Ativo;Não;Recebimento
+5798;Colaborador_5798;2026-03-14;Ativo;Não;Reverso (DV)
+5799;Colaborador_5799;2026-03-24;Ativo;Não;Expedição
+5800;Colaborador_5800;2026-01-04;Ativo;Não;Triagem
+5801;Colaborador_5801;2025-01-25;Ativo;Não;Triagem
+5802;Colaborador_5802;2026-01-21;Ativo;Não;Triagem
+5803;Colaborador_5803;2025-03-06;Ativo;Não;Expedição
+5804;Colaborador_5804;2025-08-08;Ativo;Não;Recebimento
+5805;Colaborador_5805;2026-01-13;Ativo;Não;Expedição
+5806;Colaborador_5806;2025-07-09;Ativo;Não;Expedição
+5807;Colaborador_5807;2025-07-01;Ativo;Não;Expedição
+5808;Colaborador_5808;2025-07-23;Ativo;Sim;Expedição
+5809;Colaborador_5809;2025-09-29;Desligado;Não;Expedição
+5810;Colaborador_5810;2025-12-04;Ativo;Não;Reverso (DV)
+5811;Colaborador_5811;2026-03-22;Desligado;Não;Triagem
+5812;Colaborador_5812;2025-12-30;Desligado;Não;Recebimento
+5813;Colaborador_5813;2025-10-22;Ativo;Não;Reverso (DV)
+5814;Colaborador_5814;2025-11-18;Desligado;Não;Triagem
+5815;Colaborador_5815;2026-03-26;Ativo;Não;Recebimento
+5816;Colaborador_5816;2025-01-29;Ativo;Sim;Recebimento
+5817;Colaborador_5817;2025-07-07;Ativo;Não;Expedição
+5818;Colaborador_5818;2025-03-03;Desligado;Sim;Expedição
+5819;Colaborador_5819;2025-05-19;Ativo;Não;Reverso (DV)
+5820;Colaborador_5820;2025-04-06;Ativo;Não;Triagem
+5821;Colaborador_5821;2025-01-25;Desligado;Não;Triagem
+5822;Colaborador_5822;2025-07-05;Ativo;Sim;Recebimento
+5823;Colaborador_5823;2025-05-11;Ativo;Não;Triagem
+5824;Colaborador_5824;2026-03-15;Desligado;Não;Expedição
+5825;Colaborador_5825;2026-03-14;Ativo;Não;Reverso (DV)
+5826;Colaborador_5826;2025-10-15;Desligado;Sim;Triagem
+5827;Colaborador_5827;2026-02-04;Ativo;Não;Triagem
+5828;Colaborador_5828;2025-10-14;Ativo;Não;Triagem
+5829;Colaborador_5829;2025-09-29;Ativo;Não;Reverso (DV)
+5830;Colaborador_5830;2026-02-12;Ativo;Não;Triagem
+5831;Colaborador_5831;2025-01-16;Desligado;Não;Triagem
+5832;Colaborador_5832;2025-11-13;Ativo;Sim;Triagem
+5833;Colaborador_5833;2026-03-13;Ativo;Não;Recebimento
+5834;Colaborador_5834;2025-03-09;Ativo;Sim;Reverso (DV)
+5835;Colaborador_5835;2025-01-25;Ativo;Não;Reverso (DV)
+5836;Colaborador_5836;2025-02-16;Ativo;Não;Triagem
+5837;Colaborador_5837;2025-07-12;Ativo;Não;Triagem
+5838;Colaborador_5838;2025-12-30;Ativo;Não;Recebimento
+5839;Colaborador_5839;2025-01-16;Ativo;Não;Reverso (DV)
+5840;Colaborador_5840;2025-12-19;Ativo;Não;Expedição
+5841;Colaborador_5841;2025-07-01;Ativo;Não;Expedição
+5842;Colaborador_5842;2025-07-07;Ativo;Não;Reverso (DV)
+5843;Colaborador_5843;2025-11-20;Desligado;Sim;Reverso (DV)
+5844;Colaborador_5844;2025-11-28;Ativo;Não;Triagem
+5845;Colaborador_5845;2025-05-01;Ativo;Não;Expedição
+5846;Colaborador_5846;2025-07-31;Ativo;Não;Reverso (DV)
+5847;Colaborador_5847;2025-07-07;Ativo;Não;Reverso (DV)
+5848;Colaborador_5848;2026-03-13;Ativo;Não;Expedição
+5849;Colaborador_5849;2026-03-20;Ativo;Não;Triagem
+5850;Colaborador_5850;2025-10-28;Ativo;Sim;Recebimento
+5851;Colaborador_5851;2025-05-22;Ativo;Sim;Reverso (DV)
+5852;Colaborador_5852;2026-02-18;Ativo;Não;Reverso (DV)
+5853;Colaborador_5853;2025-07-04;Ativo;Não;Triagem
+5854;Colaborador_5854;2025-08-12;Ativo;Não;Expedição
+5855;Colaborador_5855;2025-12-07;Ativo;Não;Recebimento
+5856;Colaborador_5856;2026-03-19;Ativo;Não;Expedição
+5857;Colaborador_5857;2025-02-16;Desligado;Não;Reverso (DV)
+5858;Colaborador_5858;2025-01-11;Ativo;Não;Expedição
+5859;Colaborador_5859;2025-08-02;Ativo;Não;Recebimento
+5860;Colaborador_5860;2026-02-17;Ativo;Sim;Triagem
+5861;Colaborador_5861;2025-04-15;Ativo;Não;Expedição
+5862;Colaborador_5862;2026-01-07;Ativo;Não;Reverso (DV)
+5863;Colaborador_5863;2025-01-01;Ativo;Não;Expedição
+5864;Colaborador_5864;2026-02-25;Ativo;Não;Reverso (DV)
+5865;Colaborador_5865;2025-04-16;Desligado;Sim;Expedição
+5866;Colaborador_5866;2025-07-15;Desligado;Não;Expedição
+5867;Colaborador_5867;2025-05-29;Ativo;Não;Expedição
+5868;Colaborador_5868;2025-03-20;Ativo;Sim;Recebimento
+5869;Colaborador_5869;2025-12-22;Ativo;Não;Reverso (DV)
+5870;Colaborador_5870;2025-12-26;Ativo;Sim;Reverso (DV)
+5871;Colaborador_5871;2025-06-29;Desligado;Não;Triagem
+5872;Colaborador_5872;2025-03-21;Ativo;Não;Expedição
+5873;Colaborador_5873;2025-12-26;Ativo;Não;Recebimento
+5874;Colaborador_5874;2025-01-03;Ativo;Não;Expedição
+5875;Colaborador_5875;2025-12-05;Desligado;Não;Triagem
+5876;Colaborador_5876;2026-03-06;Desligado;Não;Recebimento
+5877;Colaborador_5877;2025-12-23;Ativo;Não;Reverso (DV)
+5878;Colaborador_5878;2025-07-27;Ativo;Não;Recebimento
+5879;Colaborador_5879;2025-04-16;Ativo;Não;Triagem
+5880;Colaborador_5880;2025-12-15;Ativo;Não;Reverso (DV)
+5881;Colaborador_5881;2025-03-31;Ativo;Não;Recebimento
+5882;Colaborador_5882;2025-05-11;Desligado;Não;Reverso (DV)
+5883;Colaborador_5883;2025-01-03;Ativo;Sim;Triagem
+5884;Colaborador_5884;2026-01-24;Ativo;Não;Expedição
+5885;Colaborador_5885;2025-12-13;Desligado;Não;Reverso (DV)
+5886;Colaborador_5886;2025-03-23;Ativo;Não;Recebimento
+5887;Colaborador_5887;2025-01-05;Ativo;Não;Recebimento
+5888;Colaborador_5888;2025-02-16;Ativo;Não;Expedição
+5889;Colaborador_5889;2025-04-27;Ativo;Não;Reverso (DV)
+5890;Colaborador_5890;2025-01-18;Desligado;Sim;Reverso (DV)
+5891;Colaborador_5891;2026-02-24;Ativo;Não;Triagem
+5892;Colaborador_5892;2025-05-20;Ativo;Sim;Recebimento
+5893;Colaborador_5893;2026-01-26;Desligado;Sim;Triagem
+5894;Colaborador_5894;2025-06-09;Ativo;Não;Recebimento
+5895;Colaborador_5895;2025-04-29;Ativo;Sim;Reverso (DV)
+5896;Colaborador_5896;2026-01-14;Ativo;Não;Triagem
+5897;Colaborador_5897;2025-03-14;Ativo;Não;Reverso (DV)
+5898;Colaborador_5898;2025-06-12;Ativo;Não;Recebimento
+5899;Colaborador_5899;2025-07-26;Desligado;Não;Expedição
+5900;Colaborador_5900;2026-03-26;Ativo;Não;Reverso (DV)
+5901;Colaborador_5901;2025-10-22;Ativo;Não;Recebimento
+5902;Colaborador_5902;2025-04-03;Desligado;Não;Expedição
+5903;Colaborador_5903;2025-11-20;Ativo;Não;Expedição
+5904;Colaborador_5904;2025-06-17;Ativo;Não;Triagem
+5905;Colaborador_5905;2025-09-13;Desligado;Não;Expedição
+5906;Colaborador_5906;2025-09-16;Ativo;Não;Triagem
+5907;Colaborador_5907;2025-06-11;Ativo;Sim;Recebimento
+5908;Colaborador_5908;2026-03-15;Ativo;Sim;Reverso (DV)
+5909;Colaborador_5909;2025-09-18;Ativo;Não;Recebimento
+5910;Colaborador_5910;2025-02-06;Ativo;Não;Triagem
+5911;Colaborador_5911;2025-10-26;Ativo;Não;Recebimento
+5912;Colaborador_5912;2025-01-04;Ativo;Não;Recebimento
+5913;Colaborador_5913;2025-12-06;Ativo;Não;Recebimento
+5914;Colaborador_5914;2026-02-15;Desligado;Sim;Expedição
+5915;Colaborador_5915;2025-10-25;Ativo;Sim;Triagem
+5916;Colaborador_5916;2025-12-31;Ativo;Não;Reverso (DV)
+5917;Colaborador_5917;2025-04-22;Desligado;Não;Triagem
+5918;Colaborador_5918;2025-12-20;Ativo;Não;Recebimento
+5919;Colaborador_5919;2025-10-20;Ativo;Não;Reverso (DV)
+5920;Colaborador_5920;2025-07-24;Desligado;Não;Reverso (DV)
+5921;Colaborador_5921;2025-05-21;Ativo;Não;Recebimento
+5922;Colaborador_5922;2026-01-11;Desligado;Não;Recebimento
+5923;Colaborador_5923;2025-11-13;Ativo;Não;Recebimento
+5924;Colaborador_5924;2026-01-16;Ativo;Não;Recebimento
+5925;Colaborador_5925;2025-11-19;Ativo;Não;Reverso (DV)
+5926;Colaborador_5926;2025-04-08;Ativo;Não;Reverso (DV)
+5927;Colaborador_5927;2025-01-02;Ativo;Não;Recebimento
+5928;Colaborador_5928;2025-12-04;Ativo;Não;Expedição
+5929;Colaborador_5929;2025-08-11;Desligado;Não;Triagem
+5930;Colaborador_5930;2025-02-18;Desligado;Não;Reverso (DV)
+5931;Colaborador_5931;2025-10-23;Ativo;Sim;Triagem
+5932;Colaborador_5932;2025-11-22;Ativo;Não;Triagem
+5933;Colaborador_5933;2025-03-04;Ativo;Não;Triagem
+5934;Colaborador_5934;2026-01-15;Ativo;Não;Expedição
+5935;Colaborador_5935;2025-05-11;Ativo;Não;Reverso (DV)
+5936;Colaborador_5936;2025-08-19;Desligado;Não;Expedição
+5937;Colaborador_5937;2025-02-18;Ativo;Não;Recebimento
+5938;Colaborador_5938;2025-08-18;Ativo;Não;Recebimento
+5939;Colaborador_5939;2025-11-17;Ativo;Não;Recebimento
+5940;Colaborador_5940;2025-08-10;Ativo;Sim;Triagem
+5941;Colaborador_5941;2026-03-08;Ativo;Sim;Reverso (DV)
+5942;Colaborador_5942;2025-06-21;Ativo;Sim;Expedição
+5943;Colaborador_5943;2025-11-21;Ativo;Não;Triagem
+5944;Colaborador_5944;2025-08-22;Ativo;Sim;Triagem
+5945;Colaborador_5945;2026-03-02;Ativo;Não;Recebimento
+5946;Colaborador_5946;2025-04-19;Ativo;Sim;Reverso (DV)
+5947;Colaborador_5947;2025-05-31;Ativo;Não;Recebimento
+5948;Colaborador_5948;2025-05-01;Ativo;Sim;Triagem
+5949;Colaborador_5949;2025-12-07;Desligado;Sim;Expedição
+5950;Colaborador_5950;2025-05-02;Desligado;Não;Triagem
+5951;Colaborador_5951;2025-09-01;Ativo;Não;Expedição
+5952;Colaborador_5952;2025-02-10;Ativo;Não;Reverso (DV)
+5953;Colaborador_5953;2026-01-14;Ativo;Não;Expedição
+5954;Colaborador_5954;2025-06-16;Ativo;Não;Recebimento
+5955;Colaborador_5955;2026-02-27;Ativo;Não;Recebimento
+5956;Colaborador_5956;2026-02-03;Desligado;Não;Expedição
+5957;Colaborador_5957;2026-01-18;Ativo;Não;Recebimento
+5958;Colaborador_5958;2025-05-22;Ativo;Não;Expedição
+5959;Colaborador_5959;2025-03-29;Ativo;Sim;Reverso (DV)
+5960;Colaborador_5960;2025-03-27;Ativo;Não;Reverso (DV)
+5961;Colaborador_5961;2025-08-17;Desligado;Não;Triagem
+5962;Colaborador_5962;2025-03-09;Ativo;Não;Expedição
+5963;Colaborador_5963;2025-07-06;Ativo;Sim;Expedição
+5964;Colaborador_5964;2025-04-11;Ativo;Não;Recebimento
+5965;Colaborador_5965;2025-03-16;Desligado;Não;Recebimento
+5966;Colaborador_5966;2025-01-02;Ativo;Não;Expedição
+5967;Colaborador_5967;2025-11-14;Ativo;Sim;Triagem
+5968;Colaborador_5968;2025-07-22;Ativo;Não;Reverso (DV)
+5969;Colaborador_5969;2025-10-14;Ativo;Não;Expedição
+5970;Colaborador_5970;2025-06-30;Ativo;Não;Recebimento
+5971;Colaborador_5971;2026-03-20;Ativo;Não;Recebimento
+5972;Colaborador_5972;2025-09-12;Ativo;Não;Expedição
+5973;Colaborador_5973;2025-02-11;Ativo;Não;Triagem
+5974;Colaborador_5974;2025-07-16;Ativo;Sim;Reverso (DV)
+5975;Colaborador_5975;2025-10-26;Ativo;Não;Triagem
+5976;Colaborador_5976;2025-03-19;Desligado;Não;Triagem
+5977;Colaborador_5977;2025-10-07;Ativo;Sim;Recebimento
+5978;Colaborador_5978;2025-11-24;Ativo;Sim;Expedição
+5979;Colaborador_5979;2025-09-11;Ativo;Não;Expedição
+5980;Colaborador_5980;2025-03-15;Ativo;Não;Recebimento
+5981;Colaborador_5981;2026-01-28;Ativo;Sim;Expedição
+5982;Colaborador_5982;2026-01-17;Ativo;Não;Expedição
+5983;Colaborador_5983;2025-01-26;Ativo;Sim;Recebimento
+5984;Colaborador_5984;2025-07-21;Ativo;Não;Recebimento
+5985;Colaborador_5985;2025-02-17;Ativo;Não;Expedição
+5986;Colaborador_5986;2025-04-03;Ativo;Não;Expedição
+5987;Colaborador_5987;2025-09-18;Ativo;Não;Triagem
+5988;Colaborador_5988;2025-10-05;Ativo;Não;Recebimento
+5989;Colaborador_5989;2025-10-23;Ativo;Não;Expedição
+5990;Colaborador_5990;2025-02-22;Ativo;Não;Triagem
+5991;Colaborador_5991;2025-05-10;Desligado;Não;Recebimento
+5992;Colaborador_5992;2025-12-15;Ativo;Não;Recebimento
+5993;Colaborador_5993;2025-11-04;Desligado;Não;Reverso (DV)
+5994;Colaborador_5994;2025-12-23;Desligado;Não;Reverso (DV)
+5995;Colaborador_5995;2026-01-21;Desligado;Não;Reverso (DV)
+5996;Colaborador_5996;2025-04-28;Ativo;Não;Triagem
+5997;Colaborador_5997;2026-03-25;Ativo;Não;Recebimento
+5998;Colaborador_5998;2026-01-27;Ativo;Não;Recebimento
+5999;Colaborador_5999;2025-10-09;Ativo;Não;Reverso (DV)
+6000;Colaborador_6000;2026-02-25;Ativo;Não;Recebimento
+6001;Colaborador_6001;2025-04-25;Ativo;Não;Recebimento
+6002;Colaborador_6002;2025-09-29;Ativo;Não;Reverso (DV)
+6003;Colaborador_6003;2025-02-06;Ativo;Sim;Recebimento
+6004;Colaborador_6004;2025-10-22;Ativo;Não;Expedição
+6005;Colaborador_6005;2025-09-02;Ativo;Não;Expedição
+6006;Colaborador_6006;2025-07-21;Ativo;Não;Reverso (DV)
+6007;Colaborador_6007;2025-04-06;Ativo;Não;Recebimento
+6008;Colaborador_6008;2025-03-03;Desligado;Não;Reverso (DV)
+6009;Colaborador_6009;2025-07-18;Ativo;Não;Reverso (DV)
+6010;Colaborador_6010;2025-09-30;Ativo;Não;Recebimento
+6011;Colaborador_6011;2025-04-28;Ativo;Não;Expedição
+6012;Colaborador_6012;2025-11-29;Ativo;Não;Expedição
+6013;Colaborador_6013;2025-04-17;Ativo;Não;Reverso (DV)
+6014;Colaborador_6014;2025-11-13;Desligado;Não;Triagem
+6015;Colaborador_6015;2025-06-01;Desligado;Não;Triagem
+6016;Colaborador_6016;2025-07-14;Desligado;Não;Reverso (DV)
+6017;Colaborador_6017;2025-09-03;Ativo;Não;Expedição
+6018;Colaborador_6018;2025-07-15;Ativo;Sim;Reverso (DV)
+6019;Colaborador_6019;2026-01-18;Desligado;Não;Reverso (DV)
+6020;Colaborador_6020;2025-03-11;Ativo;Sim;Expedição
+6021;Colaborador_6021;2025-12-26;Ativo;Não;Recebimento
+6022;Colaborador_6022;2025-09-17;Ativo;Não;Triagem
+6023;Colaborador_6023;2025-05-19;Ativo;Não;Expedição
+6024;Colaborador_6024;2025-02-09;Desligado;Não;Expedição
+6025;Colaborador_6025;2025-05-23;Ativo;Não;Triagem
+6026;Colaborador_6026;2026-02-20;Ativo;Não;Triagem
+6027;Colaborador_6027;2025-03-01;Desligado;Não;Reverso (DV)
+6028;Colaborador_6028;2026-02-11;Ativo;Não;Triagem
+6029;Colaborador_6029;2025-03-20;Ativo;Não;Expedição
+6030;Colaborador_6030;2025-10-18;Ativo;Não;Reverso (DV)
+6031;Colaborador_6031;2025-07-06;Ativo;Não;Triagem
+6032;Colaborador_6032;2025-02-17;Ativo;Não;Triagem
+6033;Colaborador_6033;2025-04-03;Desligado;Sim;Recebimento
+6034;Colaborador_6034;2025-11-28;Ativo;Não;Triagem
+6035;Colaborador_6035;2025-09-09;Ativo;Não;Recebimento
+6036;Colaborador_6036;2025-12-04;Ativo;Não;Triagem
+6037;Colaborador_6037;2026-02-25;Ativo;Não;Expedição
+6038;Colaborador_6038;2025-01-13;Desligado;Não;Recebimento
+6039;Colaborador_6039;2025-10-14;Ativo;Sim;Expedição
+6040;Colaborador_6040;2025-06-11;Ativo;Não;Expedição
+6041;Colaborador_6041;2025-08-06;Ativo;Não;Expedição
+6042;Colaborador_6042;2025-11-05;Desligado;Sim;Triagem
+6043;Colaborador_6043;2026-02-15;Ativo;Não;Triagem
+6044;Colaborador_6044;2025-02-01;Ativo;Sim;Expedição
+6045;Colaborador_6045;2025-08-10;Ativo;Não;Triagem
+6046;Colaborador_6046;2025-02-09;Ativo;Sim;Expedição
+6047;Colaborador_6047;2025-03-16;Ativo;Não;Recebimento
+6048;Colaborador_6048;2025-08-05;Ativo;Sim;Triagem
+6049;Colaborador_6049;2025-11-14;Ativo;Sim;Triagem
+6050;Colaborador_6050;2025-05-14;Desligado;Não;Reverso (DV)
+6051;Colaborador_6051;2025-09-03;Ativo;Não;Triagem
+6052;Colaborador_6052;2025-06-12;Ativo;Não;Triagem
+6053;Colaborador_6053;2025-09-30;Ativo;Não;Expedição
+6054;Colaborador_6054;2025-11-22;Ativo;Sim;Triagem
+6055;Colaborador_6055;2025-05-22;Desligado;Não;Recebimento
+6056;Colaborador_6056;2025-03-27;Ativo;Não;Expedição
+6057;Colaborador_6057;2026-01-14;Desligado;Sim;Recebimento
+6058;Colaborador_6058;2025-07-21;Ativo;Não;Triagem
+6059;Colaborador_6059;2025-04-21;Desligado;Não;Recebimento
+6060;Colaborador_6060;2025-11-06;Ativo;Não;Reverso (DV)
+6061;Colaborador_6061;2025-07-05;Ativo;Não;Recebimento
+6062;Colaborador_6062;2026-02-16;Ativo;Não;Expedição
+6063;Colaborador_6063;2026-02-03;Ativo;Não;Expedição
+6064;Colaborador_6064;2025-09-01;Ativo;Não;Expedição
+6065;Colaborador_6065;2025-09-13;Ativo;Não;Expedição
+6066;Colaborador_6066;2025-06-26;Ativo;Não;Reverso (DV)
+6067;Colaborador_6067;2025-10-09;Ativo;Não;Triagem
+6068;Colaborador_6068;2025-08-21;Ativo;Não;Expedição
+6069;Colaborador_6069;2025-01-24;Ativo;Sim;Triagem
+6070;Colaborador_6070;2025-06-18;Ativo;Sim;Triagem
+6071;Colaborador_6071;2025-06-23;Ativo;Não;Reverso (DV)
+6072;Colaborador_6072;2026-01-31;Ativo;Não;Reverso (DV)
+6073;Colaborador_6073;2025-11-15;Ativo;Não;Triagem
+6074;Colaborador_6074;2026-01-21;Ativo;Não;Triagem
+6075;Colaborador_6075;2025-05-19;Ativo;Não;Reverso (DV)
+6076;Colaborador_6076;2026-03-15;Desligado;Sim;Expedição
+6077;Colaborador_6077;2025-07-27;Ativo;Não;Triagem
+6078;Colaborador_6078;2026-03-04;Ativo;Não;Triagem
+6079;Colaborador_6079;2025-07-10;Ativo;Não;Expedição
+6080;Colaborador_6080;2025-06-08;Desligado;Não;Expedição
+6081;Colaborador_6081;2025-06-23;Ativo;Sim;Recebimento
+6082;Colaborador_6082;2025-12-25;Ativo;Não;Reverso (DV)
+6083;Colaborador_6083;2025-03-20;Desligado;Não;Expedição
+6084;Colaborador_6084;2025-06-19;Ativo;Não;Triagem
+6085;Colaborador_6085;2025-01-26;Ativo;Sim;Expedição
+6086;Colaborador_6086;2025-05-28;Ativo;Não;Reverso (DV)
+6087;Colaborador_6087;2025-06-01;Ativo;Não;Recebimento
+6088;Colaborador_6088;2026-02-28;Ativo;Não;Recebimento
+6089;Colaborador_6089;2026-01-06;Ativo;Sim;Reverso (DV)
+6090;Colaborador_6090;2025-12-13;Desligado;Não;Expedição
+6091;Colaborador_6091;2025-12-03;Ativo;Não;Recebimento
+6092;Colaborador_6092;2025-08-23;Ativo;Não;Reverso (DV)
+6093;Colaborador_6093;2025-06-27;Desligado;Não;Triagem
+6094;Colaborador_6094;2025-07-24;Ativo;Sim;Triagem
+6095;Colaborador_6095;2025-08-31;Ativo;Não;Triagem
+6096;Colaborador_6096;2025-08-07;Ativo;Não;Expedição
+6097;Colaborador_6097;2026-01-07;Ativo;Não;Reverso (DV)
+6098;Colaborador_6098;2026-01-08;Ativo;Não;Recebimento
+6099;Colaborador_6099;2025-05-04;Ativo;Não;Expedição
+6100;Colaborador_6100;2025-12-28;Ativo;Sim;Expedição
+6101;Colaborador_6101;2026-02-05;Ativo;Não;Expedição
+6102;Colaborador_6102;2025-09-30;Desligado;Não;Recebimento
+6103;Colaborador_6103;2026-03-04;Ativo;Sim;Triagem
+6104;Colaborador_6104;2025-09-15;Ativo;Não;Reverso (DV)
+6105;Colaborador_6105;2025-09-28;Ativo;Não;Recebimento
+6106;Colaborador_6106;2025-11-01;Desligado;Não;Expedição
+6107;Colaborador_6107;2026-01-29;Ativo;Sim;Expedição
+6108;Colaborador_6108;2025-03-23;Ativo;Não;Recebimento
+6109;Colaborador_6109;2026-01-18;Ativo;Não;Recebimento
+6110;Colaborador_6110;2026-02-17;Ativo;Não;Reverso (DV)
+6111;Colaborador_6111;2026-02-19;Ativo;Não;Expedição
+6112;Colaborador_6112;2025-05-30;Ativo;Não;Expedição
+6113;Colaborador_6113;2025-10-20;Desligado;Não;Triagem
+6114;Colaborador_6114;2025-10-18;Ativo;Não;Recebimento
+6115;Colaborador_6115;2025-07-20;Ativo;Não;Expedição
+6116;Colaborador_6116;2025-06-29;Ativo;Não;Recebimento
+6117;Colaborador_6117;2025-12-25;Ativo;Não;Reverso (DV)
+6118;Colaborador_6118;2026-02-25;Desligado;Não;Reverso (DV)
+6119;Colaborador_6119;2025-11-17;Ativo;Não;Expedição
+6120;Colaborador_6120;2025-02-07;Desligado;Não;Triagem
+6121;Colaborador_6121;2025-11-07;Ativo;Não;Triagem
+6122;Colaborador_6122;2025-12-02;Ativo;Sim;Triagem
+6123;Colaborador_6123;2025-09-02;Ativo;Não;Reverso (DV)
+6124;Colaborador_6124;2025-11-29;Ativo;Não;Recebimento
+6125;Colaborador_6125;2025-11-02;Ativo;Não;Reverso (DV)
+6126;Colaborador_6126;2025-07-12;Ativo;Sim;Expedição
+6127;Colaborador_6127;2025-07-19;Ativo;Não;Recebimento
+6128;Colaborador_6128;2025-06-02;Ativo;Sim;Reverso (DV)
+6129;Colaborador_6129;2025-02-17;Desligado;Sim;Reverso (DV)
+6130;Colaborador_6130;2025-07-10;Ativo;Não;Reverso (DV)
+6131;Colaborador_6131;2025-04-16;Ativo;Não;Expedição
+6132;Colaborador_6132;2025-11-12;Ativo;Não;Recebimento
+6133;Colaborador_6133;2025-03-06;Ativo;Não;Reverso (DV)
+6134;Colaborador_6134;2025-05-27;Ativo;Não;Reverso (DV)
+6135;Colaborador_6135;2025-08-09;Ativo;Não;Recebimento
+6136;Colaborador_6136;2025-12-04;Ativo;Não;Triagem
+6137;Colaborador_6137;2026-02-08;Ativo;Sim;Reverso (DV)
+6138;Colaborador_6138;2025-03-17;Desligado;Não;Recebimento
+6139;Colaborador_6139;2026-02-10;Desligado;Não;Expedição
+6140;Colaborador_6140;2025-01-21;Ativo;Não;Reverso (DV)
+6141;Colaborador_6141;2026-02-26;Ativo;Não;Recebimento
+6142;Colaborador_6142;2025-05-30;Ativo;Não;Expedição
+6143;Colaborador_6143;2026-02-10;Ativo;Não;Triagem
+6144;Colaborador_6144;2026-02-21;Ativo;Não;Reverso (DV)
+6145;Colaborador_6145;2025-02-19;Ativo;Sim;Expedição
+6146;Colaborador_6146;2025-06-17;Ativo;Sim;Recebimento
+6147;Colaborador_6147;2025-04-19;Ativo;Não;Reverso (DV)
+6148;Colaborador_6148;2026-01-21;Ativo;Não;Reverso (DV)
+6149;Colaborador_6149;2025-12-22;Ativo;Não;Triagem
+6150;Colaborador_6150;2025-04-16;Desligado;Não;Triagem
+6151;Colaborador_6151;2025-09-25;Ativo;Não;Reverso (DV)
+6152;Colaborador_6152;2025-11-30;Ativo;Não;Triagem
+6153;Colaborador_6153;2025-09-30;Ativo;Não;Recebimento
+6154;Colaborador_6154;2025-10-24;Ativo;Sim;Recebimento
+6155;Colaborador_6155;2025-09-19;Desligado;Não;Recebimento
+6156;Colaborador_6156;2025-08-30;Ativo;Não;Reverso (DV)
+6157;Colaborador_6157;2026-01-14;Ativo;Sim;Reverso (DV)
+6158;Colaborador_6158;2025-07-18;Ativo;Não;Triagem
+6159;Colaborador_6159;2026-01-24;Ativo;Não;Triagem
+6160;Colaborador_6160;2025-07-01;Ativo;Não;Expedição
+6161;Colaborador_6161;2025-12-30;Desligado;Não;Reverso (DV)
+6162;Colaborador_6162;2025-06-18;Ativo;Não;Recebimento
+6163;Colaborador_6163;2025-02-01;Desligado;Não;Expedição
+6164;Colaborador_6164;2026-02-01;Ativo;Não;Recebimento
+6165;Colaborador_6165;2025-04-12;Ativo;Não;Reverso (DV)
+6166;Colaborador_6166;2025-11-15;Ativo;Sim;Expedição
+6167;Colaborador_6167;2025-10-23;Ativo;Não;Recebimento
+6168;Colaborador_6168;2025-07-29;Ativo;Não;Reverso (DV)
+6169;Colaborador_6169;2025-05-20;Desligado;Não;Expedição
+6170;Colaborador_6170;2025-06-01;Desligado;Não;Recebimento
+6171;Colaborador_6171;2025-06-28;Ativo;Não;Expedição
+6172;Colaborador_6172;2025-12-23;Ativo;Não;Triagem
+6173;Colaborador_6173;2025-07-09;Ativo;Não;Recebimento
+6174;Colaborador_6174;2025-06-30;Ativo;Não;Triagem
+6175;Colaborador_6175;2026-03-26;Ativo;Não;Expedição
+6176;Colaborador_6176;2025-06-08;Ativo;Não;Triagem
+6177;Colaborador_6177;2025-07-05;Ativo;Não;Reverso (DV)
+6178;Colaborador_6178;2025-05-26;Ativo;Não;Triagem
+6179;Colaborador_6179;2025-07-24;Desligado;Não;Expedição
+6180;Colaborador_6180;2025-07-22;Ativo;Não;Triagem
+6181;Colaborador_6181;2025-10-31;Ativo;Não;Reverso (DV)
+6182;Colaborador_6182;2025-02-23;Desligado;Não;Expedição
+6183;Colaborador_6183;2025-07-17;Ativo;Não;Expedição
+6184;Colaborador_6184;2025-09-03;Ativo;Sim;Recebimento
+6185;Colaborador_6185;2025-06-28;Ativo;Não;Expedição
+6186;Colaborador_6186;2025-06-02;Ativo;Não;Expedição
+6187;Colaborador_6187;2026-03-22;Ativo;Sim;Reverso (DV)
+6188;Colaborador_6188;2025-11-16;Desligado;Não;Expedição
+6189;Colaborador_6189;2026-03-23;Ativo;Sim;Expedição
+6190;Colaborador_6190;2026-01-29;Ativo;Não;Triagem
+6191;Colaborador_6191;2025-10-12;Desligado;Não;Reverso (DV)
+6192;Colaborador_6192;2025-05-10;Ativo;Não;Reverso (DV)
+6193;Colaborador_6193;2025-03-03;Ativo;Não;Triagem
+6194;Colaborador_6194;2026-03-04;Ativo;Não;Reverso (DV)
+6195;Colaborador_6195;2026-02-18;Ativo;Não;Recebimento
+6196;Colaborador_6196;2025-05-13;Ativo;Não;Reverso (DV)
+6197;Colaborador_6197;2025-01-17;Desligado;Não;Triagem
+6198;Colaborador_6198;2025-10-23;Ativo;Não;Recebimento
+6199;Colaborador_6199;2025-09-13;Ativo;Não;Reverso (DV)
+6200;Colaborador_6200;2025-01-20;Ativo;Não;Triagem
+6201;Colaborador_6201;2025-09-09;Ativo;Sim;Triagem
+6202;Colaborador_6202;2025-06-15;Ativo;Sim;Triagem
+6203;Colaborador_6203;2026-01-15;Desligado;Não;Recebimento
+6204;Colaborador_6204;2025-07-31;Ativo;Não;Reverso (DV)
+6205;Colaborador_6205;2025-12-11;Ativo;Sim;Reverso (DV)
+6206;Colaborador_6206;2025-06-04;Ativo;Não;Reverso (DV)
+6207;Colaborador_6207;2025-01-31;Ativo;Não;Expedição
+6208;Colaborador_6208;2025-02-17;Ativo;Não;Reverso (DV)
+6209;Colaborador_6209;2025-08-31;Ativo;Não;Recebimento
+6210;Colaborador_6210;2025-02-08;Ativo;Não;Reverso (DV)
+6211;Colaborador_6211;2025-12-19;Ativo;Não;Triagem
+6212;Colaborador_6212;2025-02-26;Desligado;Não;Triagem
+6213;Colaborador_6213;2025-07-01;Ativo;Não;Reverso (DV)
+6214;Colaborador_6214;2025-01-13;Ativo;Não;Triagem
+6215;Colaborador_6215;2025-05-18;Ativo;Não;Triagem
+6216;Colaborador_6216;2026-03-03;Ativo;Não;Recebimento
+6217;Colaborador_6217;2025-12-08;Ativo;Não;Reverso (DV)
+6218;Colaborador_6218;2025-08-26;Ativo;Não;Recebimento
+6219;Colaborador_6219;2025-05-09;Ativo;Não;Reverso (DV)
+6220;Colaborador_6220;2025-12-17;Ativo;Sim;Recebimento
+6221;Colaborador_6221;2025-04-12;Desligado;Não;Expedição
+6222;Colaborador_6222;2025-12-29;Ativo;Não;Expedição
+6223;Colaborador_6223;2025-09-28;Ativo;Não;Expedição
+6224;Colaborador_6224;2025-07-10;Ativo;Não;Recebimento
+6225;Colaborador_6225;2025-07-09;Ativo;Não;Triagem
+6226;Colaborador_6226;2025-12-12;Ativo;Sim;Reverso (DV)
+6227;Colaborador_6227;2025-10-30;Ativo;Não;Recebimento
+6228;Colaborador_6228;2025-03-03;Ativo;Não;Reverso (DV)
+6229;Colaborador_6229;2025-10-26;Desligado;Não;Reverso (DV)
+6230;Colaborador_6230;2025-04-25;Ativo;Não;Triagem
+6231;Colaborador_6231;2025-09-03;Ativo;Não;Expedição
+6232;Colaborador_6232;2026-01-29;Ativo;Não;Expedição
+6233;Colaborador_6233;2025-10-20;Ativo;Não;Triagem
+6234;Colaborador_6234;2025-04-10;Desligado;Não;Expedição
+6235;Colaborador_6235;2026-02-07;Ativo;Não;Recebimento
+6236;Colaborador_6236;2025-06-24;Ativo;Não;Triagem
+6237;Colaborador_6237;2025-08-12;Ativo;Não;Recebimento
+6238;Colaborador_6238;2026-02-09;Ativo;Não;Reverso (DV)
+6239;Colaborador_6239;2025-12-27;Ativo;Não;Recebimento
+6240;Colaborador_6240;2025-04-17;Ativo;Não;Expedição
+6241;Colaborador_6241;2025-01-14;Ativo;Sim;Expedição
+6242;Colaborador_6242;2025-06-07;Ativo;Não;Expedição
+6243;Colaborador_6243;2025-01-01;Ativo;Não;Expedição
+6244;Colaborador_6244;2026-01-27;Ativo;Não;Reverso (DV)
+6245;Colaborador_6245;2025-11-04;Ativo;Não;Reverso (DV)
+6246;Colaborador_6246;2025-04-19;Ativo;Não;Reverso (DV)
+6247;Colaborador_6247;2025-08-13;Ativo;Não;Triagem
+6248;Colaborador_6248;2025-04-25;Ativo;Não;Expedição
+6249;Colaborador_6249;2025-12-27;Ativo;Não;Triagem
+6250;Colaborador_6250;2025-01-06;Desligado;Não;Triagem
+6251;Colaborador_6251;2026-02-02;Ativo;Não;Triagem
+6252;Colaborador_6252;2025-06-18;Desligado;Não;Triagem
+6253;Colaborador_6253;2025-05-23;Ativo;Não;Reverso (DV)
+6254;Colaborador_6254;2025-12-31;Ativo;Não;Reverso (DV)
+6255;Colaborador_6255;2025-11-22;Ativo;Não;Triagem
+6256;Colaborador_6256;2026-03-15;Ativo;Não;Expedição
+6257;Colaborador_6257;2025-12-30;Ativo;Sim;Expedição
+6258;Colaborador_6258;2025-05-11;Desligado;Não;Expedição
+6259;Colaborador_6259;2025-10-05;Ativo;Não;Triagem
+6260;Colaborador_6260;2025-06-21;Ativo;Sim;Triagem
+6261;Colaborador_6261;2026-02-21;Ativo;Não;Expedição
+6262;Colaborador_6262;2025-03-21;Ativo;Não;Triagem
+6263;Colaborador_6263;2025-03-17;Desligado;Sim;Reverso (DV)
+6264;Colaborador_6264;2025-06-08;Ativo;Não;Recebimento
+6265;Colaborador_6265;2025-11-27;Desligado;Não;Recebimento
+6266;Colaborador_6266;2025-10-24;Ativo;Não;Recebimento
+6267;Colaborador_6267;2025-02-22;Ativo;Sim;Recebimento
+6268;Colaborador_6268;2025-02-21;Ativo;Não;Reverso (DV)
+6269;Colaborador_6269;2025-11-09;Ativo;Não;Expedição
+6270;Colaborador_6270;2025-08-26;Ativo;Não;Reverso (DV)
+6271;Colaborador_6271;2026-01-24;Ativo;Não;Triagem
+6272;Colaborador_6272;2025-02-13;Ativo;Sim;Expedição
+6273;Colaborador_6273;2025-07-16;Ativo;Não;Triagem
+6274;Colaborador_6274;2025-07-24;Ativo;Não;Expedição
+6275;Colaborador_6275;2025-09-04;Ativo;Sim;Reverso (DV)
+6276;Colaborador_6276;2025-01-02;Ativo;Não;Reverso (DV)
+6277;Colaborador_6277;2025-08-18;Ativo;Não;Expedição
+6278;Colaborador_6278;2025-01-29;Ativo;Não;Expedição
+6279;Colaborador_6279;2025-07-07;Desligado;Não;Triagem
+6280;Colaborador_6280;2026-03-23;Ativo;Não;Expedição
+6281;Colaborador_6281;2025-06-02;Ativo;Não;Expedição
+6282;Colaborador_6282;2025-08-08;Ativo;Não;Reverso (DV)
+6283;Colaborador_6283;2026-01-22;Desligado;Não;Expedição
+6284;Colaborador_6284;2025-11-12;Ativo;Não;Expedição
+6285;Colaborador_6285;2025-05-20;Desligado;Não;Reverso (DV)
+6286;Colaborador_6286;2025-02-10;Desligado;Não;Reverso (DV)
+6287;Colaborador_6287;2025-05-08;Desligado;Não;Triagem
+6288;Colaborador_6288;2025-08-04;Ativo;Não;Triagem
+6289;Colaborador_6289;2025-02-16;Ativo;Não;Reverso (DV)
+6290;Colaborador_6290;2025-12-25;Ativo;Não;Recebimento
+6291;Colaborador_6291;2026-02-27;Ativo;Não;Recebimento
+6292;Colaborador_6292;2025-03-30;Ativo;Não;Reverso (DV)
+6293;Colaborador_6293;2025-06-16;Desligado;Não;Reverso (DV)
+6294;Colaborador_6294;2025-04-30;Ativo;Não;Reverso (DV)
+6295;Colaborador_6295;2025-12-06;Ativo;Não;Triagem
+6296;Colaborador_6296;2025-02-22;Desligado;Sim;Triagem
+6297;Colaborador_6297;2025-06-30;Ativo;Não;Expedição
+6298;Colaborador_6298;2025-09-19;Ativo;Não;Expedição
+6299;Colaborador_6299;2025-09-15;Desligado;Não;Expedição
+6300;Colaborador_6300;2025-08-18;Desligado;Não;Reverso (DV)
+6301;Colaborador_6301;2025-02-28;Desligado;Sim;Recebimento
+6302;Colaborador_6302;2025-07-15;Ativo;Não;Expedição
+6303;Colaborador_6303;2025-07-31;Desligado;Não;Reverso (DV)
+6304;Colaborador_6304;2025-05-23;Desligado;Não;Triagem
+6305;Colaborador_6305;2025-12-18;Desligado;Não;Recebimento
+6306;Colaborador_6306;2025-04-17;Ativo;Não;Triagem
+6307;Colaborador_6307;2025-07-07;Ativo;Não;Expedição
+6308;Colaborador_6308;2025-10-11;Ativo;Não;Triagem
+6309;Colaborador_6309;2025-05-20;Ativo;Não;Triagem
+6310;Colaborador_6310;2026-03-24;Ativo;Não;Reverso (DV)
+6311;Colaborador_6311;2025-06-11;Ativo;Não;Triagem
+6312;Colaborador_6312;2025-11-03;Ativo;Sim;Expedição
+6313;Colaborador_6313;2025-05-30;Desligado;Sim;Reverso (DV)
+6314;Colaborador_6314;2026-01-30;Desligado;Não;Reverso (DV)
+6315;Colaborador_6315;2025-12-21;Desligado;Não;Triagem
+6316;Colaborador_6316;2026-01-22;Ativo;Não;Recebimento
+6317;Colaborador_6317;2026-01-08;Ativo;Não;Triagem
+6318;Colaborador_6318;2025-11-20;Ativo;Não;Recebimento
+6319;Colaborador_6319;2025-07-29;Ativo;Não;Expedição
+6320;Colaborador_6320;2025-07-28;Ativo;Sim;Expedição
+6321;Colaborador_6321;2026-03-04;Ativo;Sim;Reverso (DV)
+6322;Colaborador_6322;2025-08-13;Ativo;Não;Triagem
+6323;Colaborador_6323;2025-08-11;Ativo;Não;Triagem
+6324;Colaborador_6324;2025-01-21;Ativo;Sim;Triagem
+6325;Colaborador_6325;2026-03-21;Ativo;Não;Triagem
+6326;Colaborador_6326;2025-12-14;Ativo;Não;Recebimento
+6327;Colaborador_6327;2025-07-01;Ativo;Não;Triagem
+6328;Colaborador_6328;2025-11-01;Ativo;Não;Expedição
+6329;Colaborador_6329;2025-01-28;Ativo;Sim;Triagem
+6330;Colaborador_6330;2025-04-07;Desligado;Sim;Reverso (DV)
+6331;Colaborador_6331;2025-11-17;Ativo;Não;Reverso (DV)
+6332;Colaborador_6332;2025-04-11;Ativo;Sim;Recebimento
+6333;Colaborador_6333;2025-01-26;Desligado;Não;Triagem
+6334;Colaborador_6334;2025-06-15;Ativo;Não;Recebimento
+6335;Colaborador_6335;2025-12-31;Ativo;Não;Triagem
+6336;Colaborador_6336;2025-10-24;Ativo;Não;Triagem
+6337;Colaborador_6337;2025-12-07;Ativo;Não;Expedição
+6338;Colaborador_6338;2025-10-10;Desligado;Não;Reverso (DV)
+6339;Colaborador_6339;2025-02-22;Desligado;Não;Recebimento
+6340;Colaborador_6340;2025-05-15;Ativo;Não;Reverso (DV)
+6341;Colaborador_6341;2026-02-11;Ativo;Não;Triagem
+6342;Colaborador_6342;2025-04-25;Ativo;Não;Recebimento
+6343;Colaborador_6343;2025-05-17;Ativo;Não;Triagem
+6344;Colaborador_6344;2025-07-30;Ativo;Não;Reverso (DV)
+6345;Colaborador_6345;2025-12-29;Ativo;Não;Triagem
+6346;Colaborador_6346;2026-01-17;Ativo;Não;Reverso (DV)
+6347;Colaborador_6347;2025-11-25;Ativo;Sim;Triagem
+6348;Colaborador_6348;2026-03-08;Ativo;Não;Triagem
+6349;Colaborador_6349;2025-05-15;Desligado;Não;Recebimento
+6350;Colaborador_6350;2025-09-18;Ativo;Não;Reverso (DV)
+6351;Colaborador_6351;2025-09-20;Ativo;Não;Expedição
+6352;Colaborador_6352;2025-06-22;Ativo;Não;Triagem
+6353;Colaborador_6353;2025-01-06;Desligado;Não;Reverso (DV)
+6354;Colaborador_6354;2025-02-02;Desligado;Não;Reverso (DV)
+6355;Colaborador_6355;2026-03-26;Ativo;Não;Reverso (DV)
+6356;Colaborador_6356;2025-07-19;Ativo;Não;Triagem
+6357;Colaborador_6357;2025-12-25;Ativo;Não;Expedição
+6358;Colaborador_6358;2026-01-05;Ativo;Sim;Triagem
+6359;Colaborador_6359;2025-06-25;Ativo;Não;Expedição
+6360;Colaborador_6360;2025-08-17;Desligado;Não;Reverso (DV)
+6361;Colaborador_6361;2025-12-17;Ativo;Não;Triagem
+6362;Colaborador_6362;2025-02-15;Ativo;Não;Triagem
+6363;Colaborador_6363;2025-09-06;Ativo;Não;Expedição
+6364;Colaborador_6364;2025-04-23;Desligado;Não;Reverso (DV)
+6365;Colaborador_6365;2026-01-24;Desligado;Sim;Expedição
+6366;Colaborador_6366;2025-05-17;Desligado;Não;Expedição
+6367;Colaborador_6367;2025-01-24;Ativo;Não;Expedição
+6368;Colaborador_6368;2025-03-31;Ativo;Sim;Expedição
+6369;Colaborador_6369;2025-11-01;Ativo;Não;Reverso (DV)
+6370;Colaborador_6370;2026-03-11;Ativo;Não;Triagem
+6371;Colaborador_6371;2025-01-08;Ativo;Não;Triagem
+6372;Colaborador_6372;2025-05-22;Desligado;Não;Triagem
+6373;Colaborador_6373;2025-02-21;Ativo;Não;Expedição
+6374;Colaborador_6374;2025-06-27;Desligado;Não;Triagem
+6375;Colaborador_6375;2025-09-16;Ativo;Não;Recebimento
+6376;Colaborador_6376;2025-11-06;Ativo;Não;Recebimento
+6377;Colaborador_6377;2025-02-12;Ativo;Não;Reverso (DV)
+6378;Colaborador_6378;2025-04-12;Desligado;Não;Triagem
+6379;Colaborador_6379;2025-08-04;Ativo;Sim;Expedição
+6380;Colaborador_6380;2025-04-30;Desligado;Não;Triagem
+6381;Colaborador_6381;2025-04-03;Ativo;Não;Triagem
+6382;Colaborador_6382;2026-01-01;Ativo;Não;Recebimento
+6383;Colaborador_6383;2025-08-16;Ativo;Sim;Expedição
+6384;Colaborador_6384;2025-12-13;Ativo;Não;Reverso (DV)
+6385;Colaborador_6385;2025-05-12;Ativo;Não;Triagem
+6386;Colaborador_6386;2026-03-01;Desligado;Não;Recebimento
+6387;Colaborador_6387;2025-01-26;Desligado;Não;Triagem
+6388;Colaborador_6388;2025-10-06;Ativo;Não;Reverso (DV)
+6389;Colaborador_6389;2025-03-19;Ativo;Não;Recebimento
+6390;Colaborador_6390;2025-01-22;Ativo;Sim;Triagem
+6391;Colaborador_6391;2025-10-26;Desligado;Não;Recebimento
+6392;Colaborador_6392;2025-06-26;Ativo;Sim;Reverso (DV)
+6393;Colaborador_6393;2026-02-01;Ativo;Não;Expedição
+6394;Colaborador_6394;2025-08-30;Desligado;Não;Expedição
+6395;Colaborador_6395;2025-04-16;Ativo;Não;Expedição
+6396;Colaborador_6396;2025-11-10;Ativo;Não;Expedição
+6397;Colaborador_6397;2025-06-20;Ativo;Sim;Triagem
+6398;Colaborador_6398;2026-01-16;Ativo;Não;Recebimento
+6399;Colaborador_6399;2025-07-04;Desligado;Não;Recebimento
+6400;Colaborador_6400;2025-05-09;Ativo;Não;Recebimento
+6401;Colaborador_6401;2025-01-25;Ativo;Não;Recebimento
+6402;Colaborador_6402;2025-06-15;Desligado;Não;Expedição
+6403;Colaborador_6403;2026-03-18;Ativo;Sim;Expedição
+6404;Colaborador_6404;2025-08-08;Ativo;Não;Reverso (DV)
+6405;Colaborador_6405;2026-01-14;Ativo;Não;Expedição
+6406;Colaborador_6406;2025-03-26;Ativo;Não;Recebimento
+6407;Colaborador_6407;2025-04-11;Ativo;Não;Triagem
+6408;Colaborador_6408;2025-04-18;Desligado;Não;Recebimento
+6409;Colaborador_6409;2025-07-02;Ativo;Sim;Triagem
+6410;Colaborador_6410;2025-03-09;Ativo;Não;Reverso (DV)
+6411;Colaborador_6411;2025-02-27;Ativo;Não;Recebimento
+6412;Colaborador_6412;2026-03-21;Ativo;Não;Triagem
+6413;Colaborador_6413;2025-09-07;Ativo;Não;Recebimento
+6414;Colaborador_6414;2025-03-05;Ativo;Não;Expedição
+6415;Colaborador_6415;2025-12-28;Ativo;Não;Recebimento
+6416;Colaborador_6416;2025-02-25;Ativo;Não;Recebimento
+6417;Colaborador_6417;2025-04-10;Desligado;Não;Expedição
+6418;Colaborador_6418;2025-07-09;Ativo;Não;Reverso (DV)
+6419;Colaborador_6419;2026-01-16;Ativo;Não;Reverso (DV)
+6420;Colaborador_6420;2025-01-24;Ativo;Não;Triagem
+6421;Colaborador_6421;2025-04-28;Ativo;Não;Recebimento
+6422;Colaborador_6422;2025-08-29;Ativo;Sim;Triagem
+6423;Colaborador_6423;2025-05-28;Ativo;Não;Recebimento
+6424;Colaborador_6424;2025-10-08;Ativo;Não;Reverso (DV)
+6425;Colaborador_6425;2025-01-15;Desligado;Não;Reverso (DV)
+6426;Colaborador_6426;2025-09-11;Ativo;Não;Triagem
+6427;Colaborador_6427;2025-02-01;Desligado;Não;Reverso (DV)
+6428;Colaborador_6428;2026-03-09;Ativo;Não;Recebimento
+6429;Colaborador_6429;2025-12-23;Ativo;Não;Expedição
+6430;Colaborador_6430;2025-01-22;Desligado;Não;Reverso (DV)
+6431;Colaborador_6431;2025-08-10;Ativo;Sim;Recebimento
+6432;Colaborador_6432;2025-01-09;Desligado;Não;Triagem
+6433;Colaborador_6433;2025-12-19;Ativo;Não;Triagem
+6434;Colaborador_6434;2025-02-18;Ativo;Não;Triagem
+6435;Colaborador_6435;2025-02-27;Ativo;Não;Recebimento
+6436;Colaborador_6436;2025-10-11;Ativo;Não;Expedição
+6437;Colaborador_6437;2025-01-27;Ativo;Não;Triagem
+6438;Colaborador_6438;2025-12-27;Desligado;Não;Expedição
+6439;Colaborador_6439;2025-04-25;Ativo;Não;Triagem
+6440;Colaborador_6440;2025-01-04;Desligado;Sim;Recebimento
+6441;Colaborador_6441;2025-11-03;Ativo;Sim;Recebimento
+6442;Colaborador_6442;2025-04-20;Ativo;Não;Expedição
+6443;Colaborador_6443;2025-09-17;Ativo;Não;Expedição
+6444;Colaborador_6444;2025-12-12;Ativo;Não;Triagem
+6445;Colaborador_6445;2026-02-09;Ativo;Não;Recebimento
+6446;Colaborador_6446;2025-07-27;Ativo;Não;Expedição
+6447;Colaborador_6447;2025-09-16;Ativo;Sim;Triagem
+6448;Colaborador_6448;2025-02-05;Ativo;Não;Recebimento
+6449;Colaborador_6449;2025-08-21;Ativo;Não;Recebimento
+6450;Colaborador_6450;2025-12-23;Ativo;Não;Reverso (DV)
+6451;Colaborador_6451;2025-11-22;Ativo;Sim;Recebimento
+6452;Colaborador_6452;2025-03-30;Desligado;Não;Recebimento
+6453;Colaborador_6453;2025-03-16;Desligado;Não;Expedição
+6454;Colaborador_6454;2025-06-03;Ativo;Não;Recebimento
+6455;Colaborador_6455;2025-10-12;Ativo;Não;Recebimento
+6456;Colaborador_6456;2025-01-25;Ativo;Não;Triagem
+6457;Colaborador_6457;2025-08-29;Ativo;Não;Recebimento
+6458;Colaborador_6458;2025-06-03;Desligado;Não;Recebimento
+6459;Colaborador_6459;2026-01-20;Ativo;Não;Recebimento
+6460;Colaborador_6460;2025-08-24;Ativo;Não;Recebimento
+6461;Colaborador_6461;2025-03-15;Ativo;Não;Reverso (DV)
+6462;Colaborador_6462;2025-04-11;Ativo;Não;Recebimento
+6463;Colaborador_6463;2025-09-23;Desligado;Não;Expedição
+6464;Colaborador_6464;2025-02-28;Ativo;Não;Recebimento
+6465;Colaborador_6465;2026-02-20;Ativo;Não;Reverso (DV)
+6466;Colaborador_6466;2026-01-05;Ativo;Sim;Recebimento
+6467;Colaborador_6467;2025-03-28;Ativo;Não;Expedição
+6468;Colaborador_6468;2025-06-30;Ativo;Sim;Reverso (DV)
+6469;Colaborador_6469;2025-05-23;Ativo;Não;Expedição
+6470;Colaborador_6470;2025-05-27;Ativo;Não;Expedição
+6471;Colaborador_6471;2025-09-24;Desligado;Não;Recebimento
+6472;Colaborador_6472;2025-08-17;Ativo;Não;Expedição
+6473;Colaborador_6473;2025-07-21;Ativo;Não;Reverso (DV)
+6474;Colaborador_6474;2025-04-28;Ativo;Não;Reverso (DV)
+6475;Colaborador_6475;2025-02-15;Ativo;Não;Expedição
+6476;Colaborador_6476;2025-07-21;Ativo;Sim;Recebimento
+6477;Colaborador_6477;2025-09-14;Ativo;Não;Reverso (DV)
+6478;Colaborador_6478;2025-12-21;Desligado;Não;Triagem
+6479;Colaborador_6479;2025-03-03;Ativo;Não;Recebimento
+6480;Colaborador_6480;2025-06-07;Ativo;Não;Expedição
+6481;Colaborador_6481;2025-05-17;Ativo;Não;Recebimento
+6482;Colaborador_6482;2025-09-25;Ativo;Não;Expedição
+6483;Colaborador_6483;2025-01-10;Ativo;Não;Triagem
+6484;Colaborador_6484;2025-01-26;Ativo;Não;Triagem
+6485;Colaborador_6485;2025-04-19;Ativo;Não;Reverso (DV)
+6486;Colaborador_6486;2025-07-12;Ativo;Não;Triagem
+6487;Colaborador_6487;2025-10-27;Ativo;Não;Triagem
+6488;Colaborador_6488;2025-09-02;Ativo;Não;Reverso (DV)
+6489;Colaborador_6489;2025-03-21;Desligado;Não;Expedição
+6490;Colaborador_6490;2026-02-09;Desligado;Não;Triagem
+6491;Colaborador_6491;2025-09-09;Ativo;Não;Reverso (DV)
+6492;Colaborador_6492;2025-11-17;Ativo;Não;Reverso (DV)
+6493;Colaborador_6493;2025-02-20;Ativo;Não;Triagem
+6494;Colaborador_6494;2025-09-20;Ativo;Não;Triagem
+6495;Colaborador_6495;2025-04-21;Ativo;Não;Triagem
+6496;Colaborador_6496;2025-09-01;Ativo;Sim;Triagem
+6497;Colaborador_6497;2025-05-01;Ativo;Não;Triagem
+6498;Colaborador_6498;2025-05-25;Ativo;Sim;Expedição
+6499;Colaborador_6499;2025-05-23;Ativo;Não;Triagem

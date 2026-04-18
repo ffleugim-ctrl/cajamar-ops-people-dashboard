@@ -1,0 +1,30 @@
+import pandas as pd
+import numpy as np
+from datetime import datetime, timedelta
+import os
+
+# DEFINE O CAMINHO (Mude 'Usuario' pelo seu nome no Windows)
+caminho = os.path.join(os.path.expanduser("~"), "Desktop", "PROJETO_MELI", "people_analytics_cajamar.csv")
+
+# Garante que a pasta existe
+os.makedirs(os.path.dirname(caminho), exist_ok=True)
+
+# Gerando os dados (Versão CD Cajamar)
+n_colabs = 1500
+ids = range(5000, 5000 + n_colabs)
+datas_entrada = [datetime(2025, 1, 1) + timedelta(days=np.random.randint(0, 450)) for _ in ids]
+
+df = pd.DataFrame({
+    'ID': ids,
+    'Nome': [f"Colaborador_{i}" for i in ids],
+    'Data_Entrada': datas_entrada,
+    'Status': np.random.choice(['Ativo', 'Desligado'], size=n_colabs, p=[0.8, 0.2]),
+    'Promovido': np.random.choice(['Sim', 'Não'], size=n_colabs, p=[0.15, 0.85]),
+    'Setor': np.random.choice(['Recebimento', 'Triagem', 'Expedição', 'Reverso (DV)'], n_colabs)
+})
+
+# O SEGREDO: Salvar com o separador correto para o Windows Brasileiro (ponto e vírgula)
+df.to_csv(caminho, index=False, sep=';', encoding='utf-8-sig')
+
+print(f"✅ SUCESSO! O arquivo foi criado em: {caminho}")
+print("Abra a pasta na Área de Trabalho e veja se o arquivo está lá com tamanho maior que 0kb.")
